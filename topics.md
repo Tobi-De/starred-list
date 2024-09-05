@@ -231,7 +231,7 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
@@ -508,7 +508,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
@@ -1955,7 +1955,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
 - [danthedeckie/simpleeval](https://github.com/danthedeckie/simpleeval) - Simple Safe Sandboxed Extensible Expression Evaluator for Python
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
@@ -2004,7 +2004,7 @@
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for ML models & LLMs
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -3216,7 +3216,7 @@
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Orchestrate heterogeneous ML workloads in Python, like PyTorch for ML infra. Iterable, debuggable, multi-cloud, identical across research and production.
 - [ClearcodeHQ/pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [aminalaee/fastapi-storages](https://github.com/aminalaee/fastapi-storages) - FastAPI backend storages and ORM extensions
@@ -3308,7 +3308,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [kolonialno/troncos](https://github.com/kolonialno/troncos) - 🪵 Troncos - Collection of logging, tracing and profiling tools
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [saadmk11/django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
@@ -3592,7 +3592,7 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [saadmk11/django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
@@ -3781,7 +3781,7 @@
 - [litestar-org/fast-query-parsers](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
