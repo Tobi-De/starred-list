@@ -324,6 +324,7 @@
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [TeamHG-Memex/html-text](https://github.com/TeamHG-Memex/html-text) - Extract text from HTML
@@ -402,7 +403,6 @@
 - [wq/wq](https://github.com/wq/wq) - 📱🌐📋 wq: a modular framework supporting web / native apps for mobile surveys and geospatial data collection.  Powered by Django REST Framework, Redux, React, and Material UI.
 - [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
 - [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -633,6 +633,7 @@
 
 ## Python 
 
+- [sphinx-doc/sphinxcontrib-django](https://github.com/sphinx-doc/sphinxcontrib-django) - This is a sphinx extension which improves the documentation of Django apps.
 - [westerveltco/django-twc-toolbox](https://github.com/westerveltco/django-twc-toolbox) - Various tools for Django projects at The Westervelt Company
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
@@ -1392,7 +1393,7 @@
 - [strawberry-graphql/strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL Django extension
 - [blb-ventures/strawberry-django-plus](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry GraphQL integration with Django
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [bellini666/django-choices-field](https://github.com/bellini666/django-choices-field) - Django field that set/get django's new TextChoices/IntegerChoices enum
 - [python-social-auth/social-app-django](https://github.com/python-social-auth/social-app-django) - Python Social Auth - Application - Django
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
