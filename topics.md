@@ -854,6 +854,7 @@
 
 ## django 
 
+- [sphinx-doc/sphinxcontrib-django](https://github.com/sphinx-doc/sphinxcontrib-django) - This is a sphinx extension which improves the documentation of Django apps.
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Adds more bracket angles to Django templates &lt;/&gt;
 - [piepworks/blaze-starter](https://github.com/piepworks/blaze-starter) - Blaze.horse — Django Starter Kit
@@ -1032,7 +1033,7 @@
 - [strawberry-graphql/strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL Django extension
 - [blb-ventures/strawberry-django-plus](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry GraphQL integration with Django
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [bellini666/django-choices-field](https://github.com/bellini666/django-choices-field) - Django field that set/get django's new TextChoices/IntegerChoices enum
 - [jazzband/django-two-factor-auth](https://github.com/jazzband/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
 - [erdem/django-map-widgets](https://github.com/erdem/django-map-widgets) - Highly customizable, intuitive, and user-friendly map widgets for GeoDjango applications.
@@ -1605,6 +1606,7 @@
 - [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3460,7 +3462,7 @@
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [blb-ventures/strawberry-django-plus](https://github.com/blb-ventures/strawberry-django-plus) - Enhanced Strawberry GraphQL integration with Django
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [bennylope/django-organizations](https://github.com/bennylope/django-organizations) - :couple: Multi-user accounts for Django projects
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
 - [deschler/django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
@@ -3577,6 +3579,7 @@
 
 ## python3 
 
+- [sphinx-doc/sphinxcontrib-django](https://github.com/sphinx-doc/sphinxcontrib-django) - This is a sphinx extension which improves the documentation of Django apps.
 - [oliverandrich/django-startproject](https://github.com/oliverandrich/django-startproject) - Django startproject template with batteries and nice tooling.
 - [mrsarm/django-coleman](https://github.com/mrsarm/django-coleman) - A very simple Task Management web app written with Django Admin
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
