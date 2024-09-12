@@ -751,7 +751,7 @@
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [westerveltco/django-q-registry](https://github.com/westerveltco/django-q-registry) - A Django app to register periodic Django Q tasks
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [westerveltco/django-flyio](https://github.com/westerveltco/django-flyio) - A set of simple utilities for Django apps running on Fly.io.
+- [westerveltco/django-flyio](https://github.com/westerveltco/django-flyio) - A set of simple utilities for Django apps running on Fly.io
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [gluent/goe](https://github.com/gluent/goe) - GOE: a simple and flexible way to copy data from an Oracle Database to Google BigQuery.
 - [kushaldas/retask](https://github.com/kushaldas/retask) - Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.
@@ -767,7 +767,7 @@
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [boxed/urd](https://github.com/boxed/urd) - A scheduler for Django projects
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
 - [cedar-team/django-bulk-load](https://github.com/cedar-team/django-bulk-load) - Load large batches of Django models into the database
 - [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
@@ -930,7 +930,7 @@
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [techwithtim/Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) - An automated price tracker that uses bright data, playwright, react and flask.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Orchestrate heterogeneous ML workloads in Python, like PyTorch for ML infra. Iterable, debuggable, multi-cloud, identical across research and production.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Dispatch and distribute your ML training to "serverless" clusters in Python, like PyTorch for ML infra. Iterable, debuggable, multi-cloud/on-prem, identical across research and production.
 - [ClearcodeHQ/pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [aminalaee/fastapi-storages](https://github.com/aminalaee/fastapi-storages) - FastAPI backend storages and ORM extensions
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
@@ -1873,7 +1873,7 @@
 ## Vala 
 
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A simple Wine and Proton-based compatibility tools manager
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux.
 - [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
 
 ## Vim Script 
