@@ -318,7 +318,7 @@
 
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
-- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🌞 Declarative Endpoints for RESTful APIs with Django Ninja.
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
@@ -878,7 +878,7 @@
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [oliverandrich/django-startproject](https://github.com/oliverandrich/django-startproject) - Django startproject template with batteries and nice tooling.
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
-- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🌞 Declarative Endpoints for RESTful APIs with Django Ninja.
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
 - [mrsarm/django-coleman](https://github.com/mrsarm/django-coleman) - A very simple Task Management web app written with Django Admin
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
@@ -3176,7 +3176,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
-- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🌞 Declarative Endpoints for RESTful APIs with Django Ninja.
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
