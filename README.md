@@ -699,7 +699,7 @@
 - [feincms/form-designer](https://github.com/feincms/form-designer) - A simple form designer for Django
 - [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🌞 Declarative Endpoints for RESTful APIs with Django Ninja.
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [willmcgugan/declare](https://github.com/willmcgugan/declare) - Syntactical sugar for Python class attributes
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
