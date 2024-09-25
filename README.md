@@ -639,6 +639,9 @@
 
 ## Python 
 
+- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
+- [simonw/djp](https://github.com/simonw/djp) - A plugin system for Django
+- [juftin/uv-monorepo](https://github.com/juftin/uv-monorepo) - 
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [adamchainz/djade-pre-commit](https://github.com/adamchainz/djade-pre-commit) - pre-commit hook for Djade.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
