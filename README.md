@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. Now includes React and Vue components.
@@ -1626,6 +1627,7 @@
 
 ## Rust 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
