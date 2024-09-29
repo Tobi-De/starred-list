@@ -642,6 +642,7 @@
 
 ## Python 
 
+- [simonw/django-screenshots](https://github.com/simonw/django-screenshots) - Automated screenshots for the Django documentation
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
 - [simonw/djp](https://github.com/simonw/djp) - A plugin system for Django
 - [juftin/uv-monorepo](https://github.com/juftin/uv-monorepo) - 
