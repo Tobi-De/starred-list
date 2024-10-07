@@ -872,7 +872,7 @@
 - [danihodovic/django-webhook](https://github.com/danihodovic/django-webhook) - Django webhooks triggered on model changes
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [simonw/django-http-debug](https://github.com/simonw/django-http-debug) - Django app for creating endpoints that log incoming request and return mock data
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
 - [Tobi-De/python-odt-template](https://github.com/Tobi-De/python-odt-template) - Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
@@ -2013,6 +2013,7 @@
 
 ## linux 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild
@@ -2481,7 +2482,6 @@
 - [jdum/odfdo](https://github.com/jdum/odfdo) - python library for OpenDocument format (ODF)
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
 - [mCodingLLC/VideosSampleCode](https://github.com/mCodingLLC/VideosSampleCode) - Code from the mCoding sample videos
-- [lepture/romm](https://github.com/lepture/romm) - A beautiful, powerful, self-hosted rom manager
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
 - [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload) - Automatic browser reload plugin for Litestar, designed for development use.
@@ -2684,7 +2684,7 @@
 - [djangonaut-space/program](https://github.com/djangonaut-space/program) - 8-week group mentoring program for contributing to Django :unicorn:
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [replicate/replicate-python](https://github.com/replicate/replicate-python) - Python client for Replicate
-- [aitomatic/openssa](https://github.com/aitomatic/openssa) - OpenSSA: Small Specialist Agents—Enabling Efficient, Domain-Specific Planning + Reasoning for AI
+- [aitomatic/openssa](https://github.com/aitomatic/openssa) - OpenSSA: Small Specialist Agents based on Domain-Aware Neurosymbolic Agent (DANA) architecture for industrial problem-solving
 - [uptick/django-model-import](https://github.com/uptick/django-model-import) - Django Model Import -- a fast CSV importer
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
@@ -3204,7 +3204,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
@@ -4382,6 +4382,7 @@
 
 ## windows 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
