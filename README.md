@@ -83,6 +83,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
@@ -674,7 +675,7 @@
 - [michelp/postgresql-wheel](https://github.com/michelp/postgresql-wheel) - A Python wheel containing PostgreSQL
 - [JacobCoffee/cpython-shibuya](https://github.com/JacobCoffee/cpython-shibuya) - CPython docs w/ Shibuya Theme
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
@@ -690,7 +691,6 @@
 - [jdum/odfdo](https://github.com/jdum/odfdo) - python library for OpenDocument format (ODF)
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
 - [mCodingLLC/VideosSampleCode](https://github.com/mCodingLLC/VideosSampleCode) - Code from the mCoding sample videos
-- [lepture/romm](https://github.com/lepture/romm) - A beautiful, powerful, self-hosted rom manager
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload) - Automatic browser reload plugin for Litestar, designed for development use.
@@ -946,7 +946,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [replicate/replicate-python](https://github.com/replicate/replicate-python) - Python client for Replicate
-- [aitomatic/openssa](https://github.com/aitomatic/openssa) - OpenSSA: Small Specialist Agents—Enabling Efficient, Domain-Specific Planning + Reasoning for AI
+- [aitomatic/openssa](https://github.com/aitomatic/openssa) - OpenSSA: Small Specialist Agents based on Domain-Aware Neurosymbolic Agent (DANA) architecture for industrial problem-solving
 - [uptick/django-model-import](https://github.com/uptick/django-model-import) - Django Model Import -- a fast CSV importer
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
