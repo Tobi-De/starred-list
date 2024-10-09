@@ -897,14 +897,14 @@
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
 - [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
 - [arneb/django-campaign](https://github.com/arneb/django-campaign) - Newsletter management app for Django
-- [Tobi-De/falco_tailwind](https://github.com/Tobi-De/falco_tailwind) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
+- [falcopackages/starter-template](https://github.com/falcopackages/starter-template) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
 - [stphivos/django-mock-queries](https://github.com/stphivos/django-mock-queries) - A library for mocking django queryset functions in memory for testing
 - [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.
 - [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [Tobi-De/falco](https://github.com/Tobi-De/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [boxed/okrand](https://github.com/boxed/okrand) - Okrand is an internationalization/translation tool for Django
 - [aimedey19/fleetfind](https://github.com/aimedey19/fleetfind) - A Django package for searching across multiple models
 - [romgar/django-dirtyfields](https://github.com/romgar/django-dirtyfields) - Tracking dirty fields on a Django model
@@ -1588,6 +1588,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1771,6 +1772,7 @@
 
 ## http 
 
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
@@ -2440,6 +2442,7 @@
 
 ## others 
 
+- [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
 - [ublue-os/hwe](https://github.com/ublue-os/hwe) - Fedora variants with support for ASUS devices, Nvidia devices, and Surface laptops
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [rails/solid_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
@@ -2529,7 +2532,6 @@
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [racinette/querky](https://github.com/racinette/querky) - Turn your raw SQL queries into fully type annotated Python functions with a single decorator.
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
@@ -3197,6 +3199,7 @@
 
 ## python 
 
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
@@ -4118,7 +4121,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [avencera/rustywind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes
-- [Tobi-De/falco_tailwind](https://github.com/Tobi-De/falco_tailwind) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
+- [falcopackages/starter-template](https://github.com/falcopackages/starter-template) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [tailwindcomponents/cheatsheet](https://github.com/tailwindcomponents/cheatsheet) - This repo content a cheatsheet page from tailwindcompnents.com
