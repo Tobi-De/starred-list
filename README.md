@@ -124,7 +124,6 @@
 - [rapidfuzz/Levenshtein](https://github.com/rapidfuzz/Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
@@ -238,6 +237,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [dreamsofcode-io/grpc](https://github.com/dreamsofcode-io/grpc) - 
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -382,7 +382,6 @@
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
@@ -677,7 +676,7 @@
 - [michelp/postgresql-wheel](https://github.com/michelp/postgresql-wheel) - A Python wheel containing PostgreSQL
 - [JacobCoffee/cpython-shibuya](https://github.com/JacobCoffee/cpython-shibuya) - CPython docs w/ Shibuya Theme
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
@@ -1774,6 +1773,7 @@
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
+- [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal) - 
