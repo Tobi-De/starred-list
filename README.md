@@ -1628,6 +1628,7 @@
 
 ## Ruby 
 
+- [Shopify/packwerk](https://github.com/Shopify/packwerk) - Good things come in small packages.
 - [rails/solid_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
