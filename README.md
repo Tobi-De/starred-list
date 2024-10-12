@@ -384,7 +384,7 @@
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
+- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
 - [spirodonfl/htmx-offline-mode](https://github.com/spirodonfl/htmx-offline-mode) - Adding offline mode capabilities to HTMX
 - [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
 - [kgscialdone/htmx-template](https://github.com/kgscialdone/htmx-template) - HTMX extension enabling it to retrieve the contents of &lt;template&gt; elements rather than make an HTTP request
@@ -681,7 +681,7 @@
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [unoconv/unoserver](https://github.com/unoconv/unoserver) - 
