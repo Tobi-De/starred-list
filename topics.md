@@ -872,7 +872,7 @@
 - [danihodovic/django-webhook](https://github.com/danihodovic/django-webhook) - Django webhooks triggered on model changes
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [simonw/django-http-debug](https://github.com/simonw/django-http-debug) - Django app for creating endpoints that log incoming request and return mock data
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
 - [Tobi-De/python-odt-template](https://github.com/Tobi-De/python-odt-template) - Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
@@ -1620,6 +1620,7 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ClearcodeHQ/pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
@@ -1718,6 +1719,7 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [vchaptsev/cookiecutter-django-vue](https://github.com/vchaptsev/cookiecutter-django-vue) - Cookiecutter Django Vue is a template for Django-Vue projects.
@@ -1845,7 +1847,7 @@
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
+- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
@@ -2442,6 +2444,7 @@
 
 ## others 
 
+- [Shopify/packwerk](https://github.com/Shopify/packwerk) - Good things come in small packages.
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
 - [ublue-os/hwe](https://github.com/ublue-os/hwe) - Fedora variants with support for ASUS devices, Nvidia devices, and Surface laptops
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
@@ -3207,11 +3210,11 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enabling Modern UI Composition in Django
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
@@ -3864,7 +3867,7 @@
 
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
 - [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb) - Toy Database
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
