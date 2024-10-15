@@ -83,6 +83,7 @@
 
 ## C 
 
+- [edgedb/memhive](https://github.com/edgedb/memhive) - 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -377,7 +378,7 @@
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components are also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
@@ -1814,7 +1815,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [papermerge/papermerge-core](https://github.com/papermerge/papermerge-core) - In this repository is the source code of Papermerge DMS backend core, REST API server, and frontend UI
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
