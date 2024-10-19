@@ -375,6 +375,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
@@ -651,6 +652,9 @@
 
 ## Python 
 
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [kjaymiller/ACC_Get_RevitVersions](https://github.com/kjaymiller/ACC_Get_RevitVersions) - 
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
@@ -943,7 +947,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [britisharmy/convert_html_tags_to_django_static](https://github.com/britisharmy/convert_html_tags_to_django_static) - Convert HTML tags to Django static
 - [simonw/sqlite-migrate](https://github.com/simonw/sqlite-migrate) - A simple database migration system for SQLite, based on sqlite-utils
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
@@ -1754,6 +1757,7 @@
 ## Svelte 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 
