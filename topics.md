@@ -656,6 +656,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
+- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
@@ -2647,7 +2648,7 @@
 - [adamghill/transformd](https://github.com/adamghill/transformd) - Transform dictionaries into whatever your heart desires (as long as it's another dictionary that kind of looks like the original dictionary)
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
 - [jupyter-server/pycrdt](https://github.com/jupyter-server/pycrdt) - CRDTs based on Yrs.
-- [bobthemighty/punq](https://github.com/bobthemighty/punq) - An IoC container for Python 3.6+
+- [bobthemighty/punq](https://github.com/bobthemighty/punq) - An IoC container for Python 3.8+
 - [mathiasag7/event-ease](https://github.com/mathiasag7/event-ease) - 
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
