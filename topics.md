@@ -834,6 +834,7 @@
 
 ## design 
 
+- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -987,7 +988,7 @@
 - [Bogdanp/django_dramatiq](https://github.com/Bogdanp/django_dramatiq) - A Django app that integrates with Dramatiq.
 - [RealOrangeOne/django-plausible](https://github.com/RealOrangeOne/django-plausible) - Django module to provide easy Plausible integration, with Wagtail support
 - [codingjoe/django-dynamic-filenames](https://github.com/codingjoe/django-dynamic-filenames) - Write advanced filename patterns using the Format Format String Syntax.
-- [oliverandrich/django-tailwind-cli](https://github.com/oliverandrich/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
+- [django-commons/django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
@@ -1850,7 +1851,7 @@
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
@@ -2443,7 +2444,7 @@
 ## operating-system 
 
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 ## others 
 
@@ -3446,7 +3447,7 @@
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
 - [Bogdanp/django_dramatiq](https://github.com/Bogdanp/django_dramatiq) - A Django app that integrates with Dramatiq.
 - [codingjoe/django-dynamic-filenames](https://github.com/codingjoe/django-dynamic-filenames) - Write advanced filename patterns using the Format Format String Syntax.
-- [oliverandrich/django-tailwind-cli](https://github.com/oliverandrich/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
+- [django-commons/django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
 - [ahopkins/mayim](https://github.com/ahopkins/mayim) - The *NOT* ORM hydrator
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
@@ -4156,7 +4157,7 @@
 - [forgepackages/forge-tailwind](https://github.com/forgepackages/forge-tailwind) - Use Tailwind CSS with Django. No npm required.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [oliverandrich/django-tailwind-cli](https://github.com/oliverandrich/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
+- [django-commons/django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [zaxwebs/tailwind-alpine](https://github.com/zaxwebs/tailwind-alpine) - Building random stuff with Tailwind.css and Alpine.js
