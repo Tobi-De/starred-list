@@ -212,6 +212,8 @@
 
 ## Go 
 
+- [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) - 🔬PGWATCH: PostgreSQL metrics monitor/dashboard
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -660,6 +662,7 @@
 
 ## Python 
 
+- [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [litestar-org/litestar-htmx](https://github.com/litestar-org/litestar-htmx) - Litestar plugin for HTMX
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
@@ -785,7 +788,7 @@
 - [westerveltco/django-simple-nav](https://github.com/westerveltco/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [lincolnloop/django-libsql](https://github.com/lincolnloop/django-libsql) - libsql database backend for Django
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [DanCardin/dataclass-settings](https://github.com/DanCardin/dataclass-settings) - Declarative Settings Library
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
@@ -1100,7 +1103,7 @@
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [ionelmc/django-redisboard](https://github.com/ionelmc/django-redisboard) - Redis monitoring and inspection tool in django admin.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping API (self-hosted)
+- [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping APIs (self-hosted)
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
@@ -1127,7 +1130,7 @@
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
 - [yannickkiki/yann-orm](https://github.com/yannickkiki/yann-orm) - 
 - [marksweb/django-bleach](https://github.com/marksweb/django-bleach) - Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that make
-- [OmenApps/django-pint-field](https://github.com/OmenApps/django-pint-field) - Use pint with Django's ORM
+- [OmenApps/django-pint-field](https://github.com/OmenApps/django-pint-field) - Store, validate, and convert physical quantities in Django using Pint.
 - [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python interface to your Obsidian notes
 - [ubernostrum/webcolors](https://github.com/ubernostrum/webcolors) - A library for working with HTML/CSS color formats in Python.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
@@ -1658,6 +1661,7 @@
 
 ## Rust 
 
+- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [lucas-labs/kurv](https://github.com/lucas-labs/kurv) - 𝐤𝐮𝐫𝐯 › process manager to deamonize/run background processes
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
@@ -1745,6 +1749,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ublue-os/hwe](https://github.com/ublue-os/hwe) - Fedora variants with support for ASUS devices, Nvidia devices, and Surface laptops
 - [dobicinaitis/tailwind-cli-extra](https://github.com/dobicinaitis/tailwind-cli-extra) - Tailwind CSS standalone CLI bundled with daisyUI
 - [piepworks/blaze-starter](https://github.com/piepworks/blaze-starter) - Blaze.horse — Django Starter Kit
