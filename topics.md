@@ -149,6 +149,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
 - [p2p](#p2p)
@@ -156,6 +157,8 @@
 - [parsing](#parsing)
 - [perl](#perl)
 - [php](#php)
+- [pico-8](#pico-8)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -225,7 +228,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -582,7 +585,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [avencera/rustywind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/Linux. The
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update, sandbox and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/L
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
@@ -1347,6 +1350,7 @@
 
 ## framework 
 
+- [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
@@ -1398,21 +1402,25 @@
 
 ## game 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 
 ## game-development 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## gamedev 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -1777,6 +1785,7 @@
 
 ## html 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
@@ -2088,7 +2097,7 @@
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/Linux. The
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update, sandbox and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/L
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) - A GTK4 + Libadwaita game launcher
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
@@ -2507,6 +2516,10 @@
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 
+## opengl 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
 ## operating-system 
 
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild
@@ -2514,6 +2527,8 @@
 
 ## others 
 
+- [hypy13/django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard built with daisyui
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [litestar-org/litestar-vite](https://github.com/litestar-org/litestar-vite) - Vite Plugin for Litestar
 - [anze3db/adventofcode](https://github.com/anze3db/adventofcode) - Helper utilities for solving Advent of Code puzzles
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
@@ -3189,7 +3204,7 @@
 
 ## package-manager 
 
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/Linux. The
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update, sandbox and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/L
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -3213,6 +3228,14 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## pico-8 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
+## pixel-art 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## postgresql 
 
@@ -3318,6 +3341,9 @@
 
 ## python 
 
+- [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
@@ -3996,10 +4022,11 @@
 
 ## rust 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
 - [lucas-labs/kurv](https://github.com/lucas-labs/kurv) - 𝐤𝐮𝐫𝐯 › process manager to deamonize/run background processes
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
@@ -4322,7 +4349,7 @@
 ## testing 
 
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
-- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -4467,6 +4494,7 @@
 
 ## web 
 
+- [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
