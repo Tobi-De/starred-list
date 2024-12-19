@@ -914,6 +914,8 @@
 
 ## django 
 
+- [OmenApps/django-tomselect](https://github.com/OmenApps/django-tomselect) - Autocomplete widgets and views using TomSelect
+- [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook) - Empower your Django development with this pluggable app for creating a robust component library
 - [OmenApps/django-model-info](https://github.com/OmenApps/django-model-info) - A set of Django Management Commands to help you understand and visualize your project's models
 - [falcopackages/fujin](https://github.com/falcopackages/fujin) - Get your project up and running in minutes on your vps.
@@ -1049,7 +1051,7 @@
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
-- [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
+- [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django
 - [dsoftwareinc/django-rq-scheduler](https://github.com/dsoftwareinc/django-rq-scheduler) - Package migrated to https://github.com/dsoftwareinc/django-tasks-scheduler
@@ -1099,8 +1101,8 @@
 - [bellini666/django-choices-field](https://github.com/bellini666/django-choices-field) - Django field that set/get django's new TextChoices/IntegerChoices enum
 - [jazzband/django-two-factor-auth](https://github.com/jazzband/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
 - [erdem/django-map-widgets](https://github.com/erdem/django-map-widgets) - Highly customizable, intuitive, and user-friendly map widgets for GeoDjango applications.
-- [Opus10/django-pgclone](https://github.com/Opus10/django-pgclone) - Dump and restore Postgres databases with Django.
-- [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
+- [AmbitionEng/django-pgclone](https://github.com/AmbitionEng/django-pgclone) - Dump and restore Postgres databases with Django.
+- [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [bennylope/django-organizations](https://github.com/bennylope/django-organizations) - :couple: Multi-user accounts for Django projects
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
 - [deschler/django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
@@ -1651,6 +1653,8 @@
 
 ## hacktoberfest 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -1663,7 +1667,6 @@
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2255,6 +2258,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
@@ -2398,7 +2402,7 @@
 
 ## nextjs 
 
-- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind components.
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
@@ -2515,6 +2519,7 @@
 
 ## openai 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
@@ -2550,6 +2555,9 @@
 
 ## others 
 
+- [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
+- [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
+- [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin) - Use the Django CLI using "django" without typing "django-admin".
 - [willpinha/daisy-components](https://github.com/willpinha/daisy-components) - ⚠️ This project will be archived while we wait for version 5 of daisyUI. Stay tuned!
 - [bilelmoussaoui/oo7](https://github.com/bilelmoussaoui/oo7) - James Bond went on a new mission as a Secret Service provider
 - [Tobi-De/pw](https://github.com/Tobi-De/pw) - My personal website
@@ -2903,7 +2911,7 @@
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [deta/starters](https://github.com/deta/starters) - Example Space apps to help you get started with Space.
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [Kludex/python-monorepo](https://github.com/Kludex/python-monorepo) - The Python Monorepo template! :tada:
 - [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
@@ -3075,7 +3083,7 @@
 - [kigawas/fastapi-django](https://github.com/kigawas/fastapi-django) - FastAPI with Django ORM
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [django/django-contrib-comments](https://github.com/django/django-contrib-comments) - 
-- [Lightmatter/django-hydra](https://github.com/Lightmatter/django-hydra) - A django/htmx/alpine/tailwind project template
+- [gone/django-hydra](https://github.com/gone/django-hydra) - A django/htmx/alpine/tailwind project template
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [jrief/django-entangled](https://github.com/jrief/django-entangled) - Edit JSON-Model Fields using a Standard Django Form.
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
@@ -3316,8 +3324,8 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [Opus10/django-pgclone](https://github.com/Opus10/django-pgclone) - Dump and restore Postgres databases with Django.
-- [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
+- [AmbitionEng/django-pgclone](https://github.com/AmbitionEng/django-pgclone) - Dump and restore Postgres databases with Django.
+- [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [obytes/FastQL](https://github.com/obytes/FastQL) - ⚙️  Full stack, Modern Web Application Generator. ✨ Using FastAPI, GraphQL, PostgreSQL as database, Docker, automatic HTTPS and more. 🔖
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -3961,7 +3969,7 @@
 
 ## react 
 
-- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind components.
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
@@ -4056,6 +4064,7 @@
 
 ## rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -4375,6 +4384,7 @@
 
 ## terminal 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~
