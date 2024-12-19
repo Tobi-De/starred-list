@@ -510,7 +510,7 @@
 - [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is i
 - [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [lizadaly/there-are-stars](https://github.com/lizadaly/there-are-stars) - A self-generating story that gets longer the more stars it gets
-- [Lightmatter/django-hydra](https://github.com/Lightmatter/django-hydra) - A django/htmx/alpine/tailwind project template
+- [gone/django-hydra](https://github.com/gone/django-hydra) - A django/htmx/alpine/tailwind project template
 
 ## Jupyter Notebook 
 
@@ -678,6 +678,8 @@
 
 ## Python 
 
+- [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
+- [OmenApps/django-tomselect](https://github.com/OmenApps/django-tomselect) - Autocomplete widgets and views using TomSelect
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
