@@ -2557,6 +2557,7 @@
 
 ## others 
 
+- [hendrix/hendrix](https://github.com/hendrix/hendrix) - A python web server focused on async and offbeat network traffic.  Named for the thought, "who is a 'twisted' Django R?" (though it works with any WSGI app).
 - [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
 - [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin) - Use the Django CLI using "django" without typing "django-admin".
