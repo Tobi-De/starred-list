@@ -680,6 +680,8 @@
 
 ## Python 
 
+- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
+- [python-hyper/h2](https://github.com/python-hyper/h2) - Pure-Python HTTP/2 protocol implementation
 - [jazzband/django-superform](https://github.com/jazzband/django-superform) - Add forms and formsets to other forms like they were fields.
 - [hendrix/hendrix](https://github.com/hendrix/hendrix) - A python web server focused on async and offbeat network traffic.  Named for the thought, "who is a 'twisted' Django R?" (though it works with any WSGI app).
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
@@ -1712,6 +1714,7 @@
 
 ## Ruby 
 
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [oldmoe/litestack](https://github.com/oldmoe/litestack) - 
 - [Shopify/packwerk](https://github.com/Shopify/packwerk) - Good things come in small packages.
 - [rails/solid_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
@@ -1723,6 +1726,8 @@
 
 ## Rust 
 
+- [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
+- [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv to uv package manager
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 - [joshuadavidthomas/django-language-server](https://github.com/joshuadavidthomas/django-language-server) - A language server for the Django web framework
 - [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
@@ -1867,6 +1872,7 @@
 
 ## TypeScript 
 
+- [fresho-dev/mancha](https://github.com/fresho-dev/mancha) - 
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [eeue56/gobaith](https://github.com/eeue56/gobaith) - A mental health tracker for developers, by a developer
@@ -2040,6 +2046,8 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
