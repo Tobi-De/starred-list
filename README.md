@@ -64,6 +64,7 @@
 
 ## Astro 
 
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
 - [Tailus-UI/atom-astro](https://github.com/Tailus-UI/atom-astro) - Modern astro landing page built with astro and tailus themer
 - [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) - Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.
@@ -190,7 +191,6 @@
 ## Dockerfile 
 
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
-- [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
 - [tembo-io/tembo-images](https://github.com/tembo-io/tembo-images) - Docker images for Postgres
 
 ## Elixir 
@@ -261,7 +261,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [dreamsofcode-io/grpc](https://github.com/dreamsofcode-io/grpc) - 
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -540,6 +540,7 @@
 
 ## Just 
 
+- [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
 - [jefftriplett/django-startproject](https://github.com/jefftriplett/django-startproject) - :checkered_flag: Django Start Project template with batteries
 
 ## Kotlin 
@@ -594,6 +595,7 @@
 
 ## Others 
 
+- [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
 - [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin) - Use the Django CLI using "django" without typing "django-admin".
 - [irfanhakim-as/homelab-wiki](https://github.com/irfanhakim-as/homelab-wiki) - Wiki about everything Homelab
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -668,7 +670,7 @@
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -687,6 +689,7 @@
 
 ## Python 
 
+- [pgjones/sql-tstring](https://github.com/pgjones/sql-tstring) - SQL-tString allows for f-string like construction of sql queries
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ThirVondukr/aioinject](https://github.com/ThirVondukr/aioinject) - Async-first python dependency injection library
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -816,7 +819,7 @@
 - [adamchainz/django-harlequin](https://github.com/adamchainz/django-harlequin) - Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [gabrieldemarmiesse/python-on-whales](https://github.com/gabrieldemarmiesse/python-on-whales) - An awesome Python wrapper for an awesome Docker CLI!
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [feincms/form-designer](https://github.com/feincms/form-designer) - A simple form designer for Django
 - [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1028,6 +1031,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [Slimbook-Team/slimbookface](https://github.com/Slimbook-Team/slimbookface) - Slimbook Face is an application that allows you to graphically manage multiple faces with boltgolt/howdy and enable PAM authentication throughout the system, or disable it at login, since login fails 
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
@@ -1796,7 +1800,6 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [3liz/pg-event-server](https://github.com/3liz/pg-event-server) - Dispatch Postgres NOTIFY as SSE notifications
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [nate-xyz/resonance](https://github.com/nate-xyz/resonance) - Intuitive GTK4/LibAdwaita music player
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
