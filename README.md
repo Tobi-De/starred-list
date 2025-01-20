@@ -219,6 +219,7 @@
 
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (OWASP rule-based filtering, IP and DNS filtering, rate limiting, GeoIP, Tor)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -702,7 +703,6 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ThirVondukr/aioinject](https://github.com/ThirVondukr/aioinject) - Async-first python dependency injection library
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (OWASP rule-based filtering, IP and DNS filtering, rate limiting, GeoIP, Tor)
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
 - [gitspatch/gitspatch](https://github.com/gitspatch/gitspatch) - Trigger GitHub Actions from anywhere
 - [jasongi/collectfasta](https://github.com/jasongi/collectfasta) - A fasta collectstatic command.
@@ -747,7 +747,6 @@
 - [systemd/pystemd](https://github.com/systemd/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [AlWaleedMusa/django-starter](https://github.com/AlWaleedMusa/django-starter) - A Django boilerplate to get you started fast with development.
 - [falcopackages/fujin](https://github.com/falcopackages/fujin) - Get your project up and running in minutes on your vps.
-- [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [shangxiao/stupid-django-tricks](https://github.com/shangxiao/stupid-django-tricks) - 
@@ -813,7 +812,7 @@
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [pydanny/refry](https://github.com/pydanny/refry) - Refry is a modern, maintained, typed easy-to-use retry decorator.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 - [sligodave/dynamic_databases](https://github.com/sligodave/dynamic_databases) - Django App that allows for the addition of databases on the fly and also the ability to query the database's tables through dynamically generated models.
@@ -1770,6 +1769,7 @@
 - [spiraldb/local_s3](https://github.com/spiraldb/local_s3) - A crate that launches an in-process S3. Useful for tests and dev setups.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
@@ -1905,6 +1905,7 @@
 
 ## TypeScript 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [fresho-dev/mancha](https://github.com/fresho-dev/mancha) - 
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
