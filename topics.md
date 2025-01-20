@@ -545,7 +545,7 @@
 ## chatgpt 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1357,6 +1357,7 @@
 
 ## flask 
 
+- [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
@@ -2560,7 +2561,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [Tobi-De/leerming](https://github.com/Tobi-De/leerming) - An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -2593,6 +2594,7 @@
 
 ## others 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [blopker/typesafedjango](https://github.com/blopker/typesafedjango) - 
 - [lessrest/tagflow](https://github.com/lessrest/tagflow) - 
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
