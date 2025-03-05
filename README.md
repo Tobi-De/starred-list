@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [sqlc-dev/sqlc-gen-python](https://github.com/sqlc-dev/sqlc-gen-python) - 
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
@@ -707,6 +708,8 @@
 
 ## Python 
 
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
+- [nickjj/plutus](https://github.com/nickjj/plutus) - A CLI tool for income and expense tracking.
 - [davidism/email-simplified](https://github.com/davidism/email-simplified) - Email builder and sending handler interface.
 - [ilantwig/deepsprint](https://github.com/ilantwig/deepsprint) - Conducts a quick and deep research
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
