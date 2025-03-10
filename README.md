@@ -340,6 +340,7 @@
 
 ## HTML 
 
+- [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Icon components for popular packs (starting with Heroicons)
 - [SalarHoushvand/penguin-ui-components-v3](https://github.com/SalarHoushvand/penguin-ui-components-v3) - UI component library for Tailwind CSS & Alpine JS
 - [melissawm/sphinx-tags](https://github.com/melissawm/sphinx-tags) - A tiny Sphinx extension that implements blog-style tags for documentation.
 - [willpinha/daisy-components](https://github.com/willpinha/daisy-components) - 🌸 Amazing DaisyUI components you can copy and paste
@@ -707,6 +708,8 @@
 
 ## Python 
 
+- [Acrisel/sshpipe](https://github.com/Acrisel/sshpipe) - Create and operate SSH based pipeline
+- [tsaarni/ssh-subprocess](https://github.com/tsaarni/ssh-subprocess) - Python module that provides subprocess-like execution of commands over SSH
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [nickjj/plutus](https://github.com/nickjj/plutus) - A CLI tool for income and expense tracking.
@@ -1096,7 +1099,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [vitalik/pyactix](https://github.com/vitalik/pyactix) - Test Rust + actix + python
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [replicate/replicate-python](https://github.com/replicate/replicate-python) - Python client for Replicate
 - [aitomatic/openssa](https://github.com/aitomatic/openssa) - OpenSSA: Small Specialist Agents based on Domain-Aware Neurosymbolic Agent (DANA) architecture for industrial problem-solving
