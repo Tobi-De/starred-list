@@ -145,6 +145,7 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -236,9 +237,10 @@
 
 ## ai 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -246,7 +248,7 @@
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
@@ -256,7 +258,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -277,7 +279,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -358,7 +360,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [Div99/agent-protocol](https://github.com/Div99/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [bensi94/Django-Requests-Tracker](https://github.com/bensi94/Django-Requests-Tracker) - The Django Requests Tracker is designed for local development, particularly for Rest API development. It provides various debugging information, such as SQL queries, headers, and status codes.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
@@ -395,7 +397,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -476,7 +478,7 @@
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - Cdev Python SDK
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -491,7 +493,7 @@
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Colin-b/httpx_auth](https://github.com/Colin-b/httpx_auth) - Authentication classes to be used with httpx
 
@@ -518,7 +520,7 @@
 
 ## blockchain 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 
 ## bootstrap 
 
@@ -571,11 +573,11 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [nguyenvanduocit/ai-commit](https://github.com/nguyenvanduocit/ai-commit) - CLI tool that use ChatGPT to generate commit message for your git repo.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using ChatGPT
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -604,6 +606,7 @@
 
 ## cli 
 
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
@@ -679,6 +682,7 @@
 
 ## compiler 
 
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [mathspp/building-a-python-compiler-and-interpreter](https://github.com/mathspp/building-a-python-compiler-and-interpreter) - Code for the article series on building a Python compiler and interpreter
@@ -789,7 +793,7 @@
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -821,6 +825,7 @@
 
 ## database 
 
+- [bckohan/django-enum](https://github.com/bckohan/django-enum) - Full and natural support for enumerations as Django model fields.
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
@@ -911,7 +916,7 @@
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [distributhor/workflow-webhook](https://github.com/distributhor/workflow-webhook) - A Github workflow action to call a webhook with payload data from the event. Support for JSON or URL encoded endpoints.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [DoliCloud/SellYourSaas](https://github.com/DoliCloud/SellYourSaas) - Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service
@@ -957,6 +962,10 @@
 
 ## django 
 
+- [bckohan/django-enum](https://github.com/bckohan/django-enum) - Full and natural support for enumerations as Django model fields.
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Icon components for popular packs (starting with Heroicons)
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [Bishwas-py/djapy](https://github.com/Bishwas-py/djapy) - No bullshit, Django Rest API Framework
 - [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api) - dj-notification-api is a Django package developed by Lazarus for efficiently handling notifications through various APIs
@@ -1216,8 +1225,9 @@
 
 ## docker 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -1278,6 +1288,7 @@
 
 ## documentation 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
@@ -1311,7 +1322,7 @@
 
 ## electron 
 
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -1334,7 +1345,7 @@
 - [pow-auth/assent](https://github.com/pow-auth/assent) - Multi-provider framework in Elixir
 - [ueberauth/guardian](https://github.com/ueberauth/guardian) - Elixir Authentication
 - [cpursley/walex](https://github.com/cpursley/walex) - Postgres change events (CDC) in Elixir
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 
@@ -1428,6 +1439,7 @@
 
 ## framework 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
@@ -1588,7 +1600,7 @@
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1650,7 +1662,7 @@
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1718,6 +1730,7 @@
 
 ## hacktoberfest 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
@@ -1774,14 +1787,13 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1986,6 +1998,7 @@
 
 ## javascript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
@@ -2212,6 +2225,7 @@
 
 ## llm 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
@@ -2222,7 +2236,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [Tobi-De/leerming](https://github.com/Tobi-De/leerming) - An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -2242,7 +2256,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 
@@ -2275,7 +2289,7 @@
 
 ## mac 
 
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -2293,7 +2307,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -2303,7 +2317,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
@@ -2318,8 +2332,8 @@
 
 ## macos 
 
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2459,7 +2473,7 @@
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
 
 ## neovim 
@@ -2516,6 +2530,13 @@
 - [Acreom/quickadd](https://github.com/Acreom/quickadd) - Parse natural language time and date expressions in python
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 
+## no-code 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## node 
 
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
@@ -2531,6 +2552,7 @@
 
 ## nodejs 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -2607,6 +2629,7 @@
 
 ## openai 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2614,7 +2637,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [Tobi-De/leerming](https://github.com/Tobi-De/leerming) - An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2644,6 +2667,16 @@
 
 ## others 
 
+- [patrick91/trak](https://github.com/patrick91/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+- [makinghappen/caddy-ui](https://github.com/makinghappen/caddy-ui) - 
+- [rdietrick/did-files-change](https://github.com/rdietrick/did-files-change) - Action which outputs a value that indicates whether specific resources changed in a push.
+- [tastyware/streaq](https://github.com/tastyware/streaq) - Fast, async, type-safe job queuing with Redis streams
+- [medihack/django-block-fragments](https://github.com/medihack/django-block-fragments) - Render only the content of a specific block of a Django template.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
+- [gtsa/server-setup-linux](https://github.com/gtsa/server-setup-linux) - Automate the setup of a fresh Ubuntu server with this Bash script. Features include system updates, essential tools installation (Docker, Nginx, PostgreSQL), user creation, SSH configuration, firewall
+- [Acrisel/sshpipe](https://github.com/Acrisel/sshpipe) - Create and operate SSH based pipeline
 - [nickjj/plutus](https://github.com/nickjj/plutus) - A CLI tool for income and expense tracking.
 - [ilantwig/deepsprint](https://github.com/ilantwig/deepsprint) - Conducts a quick and deep research
 - [sileht/cotyledon](https://github.com/sileht/cotyledon) - Cotyledon provides a framework for defining long-running services.
@@ -2821,7 +2854,7 @@
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [racinette/querky](https://github.com/racinette/querky) - Turn your raw SQL queries into fully type annotated Python functions with a single decorator.
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
@@ -2915,7 +2948,7 @@
 - [temporalio/sdk-python](https://github.com/temporalio/sdk-python) - Temporal Python SDK
 - [miguelgrinberg/greenletio](https://github.com/miguelgrinberg/greenletio) - Asyncio integration with sync code using greenlets.
 - [andrewgodwin/django-stator](https://github.com/andrewgodwin/django-stator) - A state machine-based background worker system for Django
-- [mblayman/journal](https://github.com/mblayman/journal) - A SaaS Journal
+- [mblayman/journal](https://github.com/mblayman/journal) - A (former) SaaS Journal
 - [tonybaloney/subinterpreter-web](https://github.com/tonybaloney/subinterpreter-web) - 
 - [bblanchon/django-htmx-modal-form](https://github.com/bblanchon/django-htmx-modal-form) - Django+HTMX modal form
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -2936,7 +2969,7 @@
 - [spyoungtech/grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [simonw/llm-gpt4all](https://github.com/simonw/llm-gpt4all) - Plugin for LLM adding support for the GPT4All collection of models
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [pauloxnet/uDjango](https://github.com/pauloxnet/uDjango) - A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks.
@@ -2961,7 +2994,7 @@
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [Slimbook-Team/slimbookface](https://github.com/Slimbook-Team/slimbookface) - Slimbook Face is an application that allows you to graphically manage multiple faces with boltgolt/howdy and enable PAM authentication throughout the system, or disable it at login, since login fails 
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
@@ -3040,7 +3073,7 @@
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [Kludex/python-monorepo](https://github.com/Kludex/python-monorepo) - The Python Monorepo template! :tada:
-- [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3
+- [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from ChatGPT
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [tarsil/django-tenants-url](https://github.com/tarsil/django-tenants-url) - Multitenancy simplified to work with single URLs.
@@ -3401,6 +3434,7 @@
 
 ## postgresql 
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [bitcrowd/carbonite](https://github.com/bitcrowd/carbonite) - Audit trails for Elixir/PostgreSQL based on triggers
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
@@ -3512,6 +3546,9 @@
 
 ## python 
 
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [tsaarni/ssh-subprocess](https://github.com/tsaarni/ssh-subprocess) - Python module that provides subprocess-like execution of commands over SSH
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [davidism/email-simplified](https://github.com/davidism/email-simplified) - Email builder and sending handler interface.
 - [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
@@ -3567,7 +3604,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [oliverandrich/django-startproject](https://github.com/oliverandrich/django-startproject) - Django startproject template with batteries and nice tooling.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
@@ -3670,10 +3707,10 @@
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [dbfixtures/pytest-postgresql](https://github.com/dbfixtures/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [aminalaee/fastapi-storages](https://github.com/aminalaee/fastapi-storages) - FastAPI backend storages and ORM extensions
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
@@ -3727,7 +3764,7 @@
 - [django-treebeard/django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations for Django
 - [frostming/fix-future-annotations](https://github.com/frostming/fix-future-annotations) - A CLI and pre-commit hook to fix future annotations
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [abilian/nua](https://github.com/abilian/nua) - Open source PaaS and application marketplace
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping APIs (self-hosted)
@@ -4024,6 +4061,8 @@
 
 ## python3 
 
+- [nggit/tremolo](https://github.com/nggit/tremolo) - Tremolo is a stream-oriented, asynchronous, programmable HTTP server written in pure Python. It can also serve as an ASGI server.
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [jasongi/collectfasta](https://github.com/jasongi/collectfasta) - A fasta collectstatic command.
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
@@ -4097,11 +4136,11 @@
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 
 ## qt 
@@ -4125,6 +4164,7 @@
 
 ## react 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [desko27/react-call](https://github.com/desko27/react-call) - ⚛️ 📡 Call your React components
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
@@ -4136,7 +4176,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [wq/wq](https://github.com/wq/wq) - 📱🌐📋 wq: a modular framework supporting web / native apps for mobile surveys and geospatial data collection.  Powered by Django REST Framework, Redux, React, and Material UI.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
@@ -4175,6 +4215,7 @@
 
 ## reactjs 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -4225,6 +4266,7 @@
 
 ## rust 
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -4325,9 +4367,10 @@
 
 ## self-hosted 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. The open-source alternative to cloud-managed databases.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -4366,7 +4409,7 @@
 
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - Cdev Python SDK
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -4377,6 +4420,7 @@
 
 ## shell 
 
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
@@ -4409,7 +4453,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [CUBRID/cubrid](https://github.com/CUBRID/cubrid) - CUBRID is a comprehensive open source relational database management system highly optimized for Web Applications.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -4450,7 +4494,7 @@
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
@@ -4505,7 +4549,7 @@
 
 ## swift 
 
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.
+- [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
@@ -4567,6 +4611,7 @@
 
 ## terminal 
 
+- [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
