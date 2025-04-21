@@ -716,7 +716,7 @@
 ## Python 
 
 - [Goldziher/spikard](https://github.com/Goldziher/spikard) - A Universal LLM Client
-- [joaompinto/janito](https://github.com/joaompinto/janito) - Natural Programming Language Agent
+- [joaompinto/janito](https://github.com/joaompinto/janito) - Natural Language Programming  Agent
 - [patrick91/trak](https://github.com/patrick91/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework capable of large file streaming.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
