@@ -241,6 +241,7 @@
 
 ## ai 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
@@ -2704,6 +2705,7 @@
 
 ## others 
 
+- [lethain/library-mcp](https://github.com/lethain/library-mcp) - MCP server for operating on Markdown knowledge bases
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [asadm/vibemode](https://github.com/asadm/vibemode) - Pack your repo into an AI-friendly format and apply AI suggested changes back with ease, all from your terminal.
@@ -2996,7 +2998,6 @@
 - [kgscialdone/htmx-template](https://github.com/kgscialdone/htmx-template) - HTMX extension enabling it to retrieve the contents of &lt;template&gt; elements rather than make an HTTP request
 - [adamghill/transformd](https://github.com/adamghill/transformd) - Transform dictionaries into whatever your heart desires (as long as it's another dictionary that kind of looks like the original dictionary)
 - [DanCardin/cappa](https://github.com/DanCardin/cappa) - Declarative CLI argument parser
-- [y-crdt/pycrdt](https://github.com/y-crdt/pycrdt) - CRDTs based on Yrs.
 - [bobthemighty/punq](https://github.com/bobthemighty/punq) - An IoC container for Python 3.8+
 - [mathiasag7/event-ease](https://github.com/mathiasag7/event-ease) - 
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
@@ -3704,6 +3705,7 @@
 - [ahawker/ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [render-engine/render-engine](https://github.com/render-engine/render-engine) - Python Static Site Generator built with flexibility prioritized
+- [y-crdt/pycrdt](https://github.com/y-crdt/pycrdt) - CRDTs based on Yrs.
 - [mathspp/building-a-python-compiler-and-interpreter](https://github.com/mathspp/building-a-python-compiler-and-interpreter) - Code for the article series on building a Python compiler and interpreter
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django
@@ -4399,6 +4401,7 @@
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
+- [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. The open-source alternative to cloud-managed databases.
@@ -4690,6 +4693,7 @@
 
 ## text-to-speech 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 
