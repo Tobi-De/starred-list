@@ -246,7 +246,7 @@
 
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -564,7 +564,7 @@
 
 ## chatbot 
 
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -574,7 +574,7 @@
 
 ## chatgpt 
 
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -2194,7 +2194,7 @@
 
 ## languages 
 
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 
 ## laravel 
 
@@ -2677,7 +2677,7 @@
 
 ## open-source 
 
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [epuerta9/kitchenai](https://github.com/epuerta9/kitchenai) - Open Source LLMOps tool for AI teams
@@ -2708,7 +2708,7 @@
 
 ## openai 
 
-- [modedevteam/mode](https://github.com/modedevteam/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -3528,7 +3528,7 @@
 - [dbfixtures/pytest-postgresql](https://github.com/dbfixtures/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [tarsil/saffier](https://github.com/tarsil/saffier) - The only ORM that you will ever need for python.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
@@ -3638,7 +3638,7 @@
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [dbfixtures/mirakuru](https://github.com/dbfixtures/mirakuru) - Mirakuru - a python library that starts your subprocess and waits for a clear indication, that it's running (process orchestrator)
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
@@ -4362,7 +4362,7 @@
 - [3liz/pg-event-server](https://github.com/3liz/pg-event-server) - Dispatch Postgres NOTIFY as SSE notifications
 - [nate-xyz/resonance](https://github.com/nate-xyz/resonance) - Intuitive GTK4/LibAdwaita music player
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -4524,7 +4524,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [bensi94/Django-Requests-Tracker](https://github.com/bensi94/Django-Requests-Tracker) - The Django Requests Tracker is designed for local development, particularly for Rest API development. It provides various debugging information, such as SQL queries, headers, and status codes.
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [simonw/django-sql-dashboard](https://github.com/simonw/django-sql-dashboard) - Django app for building dashboards using raw SQL queries
