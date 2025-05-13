@@ -532,7 +532,7 @@
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows
 - [westerveltco/django-twc-package](https://github.com/westerveltco/django-twc-package) - A Django package template for The Westervelt Company
 - [westerveltco/django-twc-project](https://github.com/westerveltco/django-twc-project) - A Django template for all web applications at The Westervelt Company
-- [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is i
+- [YPCrumble/ansible-django-stack](https://github.com/YPCrumble/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is i
 - [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [lizadaly/there-are-stars](https://github.com/lizadaly/there-are-stars) - A self-generating story that gets longer the more stars it gets
 - [gone/django-hydra](https://github.com/gone/django-hydra) - A django/htmx/alpine/tailwind project template
@@ -953,7 +953,7 @@
 - [PaulGilmartin/django-queryhunter](https://github.com/PaulGilmartin/django-queryhunter) - Hunt down the lines of your Django application code which are responsible for executing the most queries.
 - [jobsta/reportbro-lib](https://github.com/jobsta/reportbro-lib) - PDF and Excel report generation library. Reports can be designed with reportbro-designer, a javascript plugin.
 - [orm011/pgserver](https://github.com/orm011/pgserver) - Pip-installable, embedded-like postgres server for your python app
-- [mikeckennedy/listmonk](https://github.com/mikeckennedy/listmonk) - Listmonk Email App API Client for Python
+- [mikeckennedy/listmonk](https://github.com/mikeckennedy/listmonk) - Listmonk Email App API Client for Python #pypackage
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [westerveltco/django-q-registry](https://github.com/westerveltco/django-q-registry) - A Django app to register periodic Django Q tasks
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -1999,7 +1999,7 @@
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [eeue56/gobaith](https://github.com/eeue56/gobaith) - A mental health tracker for developers, by a developer
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
