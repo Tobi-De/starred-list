@@ -151,6 +151,7 @@
 
 ## CSS 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [hypy13/django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard built with daisyui
 - [Mossy1022/Smart-Memos](https://github.com/Mossy1022/Smart-Memos) - Super-human brainstorming and note-taking by smart transcribing your voice! This involves a complete transcript, a summary, an expansion on the concepts presented, and a fully customizable analysis of
@@ -229,6 +230,7 @@
 
 ## Go 
 
+- [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -347,6 +349,7 @@
 
 ## HTML 
 
+- [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Icon components for popular packs (starting with Heroicons)
 - [SalarHoushvand/penguin-ui-components-v3](https://github.com/SalarHoushvand/penguin-ui-components-v3) - UI component library for Tailwind CSS & Alpine JS
 - [melissawm/sphinx-tags](https://github.com/melissawm/sphinx-tags) - A tiny Sphinx extension that implements blog-style tags for documentation.
@@ -372,7 +375,6 @@
 - [xtrinch/fcm-django-web-demo](https://github.com/xtrinch/fcm-django-web-demo) - Quick demo to demonstrate the use of firebase web push notifications with the use of `javascript` on frontend, `django` on backend and push notifications via `fcm-django` pypi package for django.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
@@ -717,6 +719,9 @@
 
 ## Python 
 
+- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+- [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) - MCP server for Docker
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [aimedey19/django-ai-translate](https://github.com/aimedey19/django-ai-translate) - AI-powered automatic translation for Django `.po` files.
 - [aimedey19/feexpay-python-sdk](https://github.com/aimedey19/feexpay-python-sdk) - A Python SDK for Feexpay payment gateway
 - [koaning/psdoom](https://github.com/koaning/psdoom) - A small TUI to help terminate processes
@@ -891,7 +896,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
@@ -927,6 +932,7 @@
 - [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [wemake-services/dump-env](https://github.com/wemake-services/dump-env) - A utility tool to create .env files
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [GoogleCloudPlatform/database-assessment](https://github.com/GoogleCloudPlatform/database-assessment) - Database Migration Assessment
 - [racinette/querky](https://github.com/racinette/querky) - Turn your raw SQL queries into fully type annotated Python functions with a single decorator.
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
@@ -1128,6 +1134,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [vitalik/pyactix](https://github.com/vitalik/pyactix) - Test Rust + actix + python
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [replicate/replicate-python](https://github.com/replicate/replicate-python) - Python client for Replicate
@@ -1161,7 +1168,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) - Mirrored from https://codeberg.org/kramo/cartridges
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De) - GH Profile / Personal Website source code and resume
@@ -1183,7 +1190,7 @@
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
 - [wagtail/wagtail-ai](https://github.com/wagtail/wagtail-ai) - Get help with your Wagtail content using AI superpowers.
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.
-- [yeagerai/yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
+- [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
@@ -1841,7 +1848,7 @@
 - [owo-colors/owo-colors](https://github.com/owo-colors/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [bilelmoussaoui/oo7](https://github.com/bilelmoussaoui/oo7) - James Bond went on a new mission as a Secret Service provider
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -1987,6 +1994,7 @@
 
 ## TypeScript 
 
+- [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
@@ -2030,7 +2038,6 @@
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal) - 
@@ -2052,7 +2059,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
 - [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab) - A browser-like search tab for your local files in Obsidian.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
