@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
@@ -807,7 +808,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [litestar-org/litestar-vite](https://github.com/litestar-org/litestar-vite) - Vite Plugin for Litestar
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [anze3db/adventofcode](https://github.com/anze3db/adventofcode) - Helper utilities for solving Advent of Code puzzles
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -1146,7 +1147,7 @@
 - [uptick/django-model-import](https://github.com/uptick/django-model-import) - Django Model Import -- a fast CSV importer
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [techwithtim/Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) - An automated price tracker that uses bright data, playwright, react and flask.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [dbfixtures/pytest-postgresql](https://github.com/dbfixtures/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [aminalaee/fastapi-storages](https://github.com/aminalaee/fastapi-storages) - FastAPI backend storages and ORM extensions
@@ -1255,7 +1256,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [tiangolo/typer-cli](https://github.com/tiangolo/typer-cli) - Run Typer scripts with completion, without having to create a package, using Typer CLI.
 - [tarsil/django-tenants-url](https://github.com/tarsil/django-tenants-url) - Multitenancy simplified to work with single URLs.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
 - [koaning/lazylines](https://github.com/koaning/lazylines) - Pipelines for JSONL files
 - [adriangb/ciscript](https://github.com/adriangb/ciscript) - Build complex CI workflows using code
@@ -1411,7 +1412,7 @@
 - [photocrowd/django-cursor-pagination](https://github.com/photocrowd/django-cursor-pagination) - Cursor-based pagination for Django
 - [pennersr/django-trackstats](https://github.com/pennersr/django-trackstats) - Keep track of your statistics
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Background task queue for Python backed by Redis, a super minimal Celery
-- [jazzband/django-cookie-consent](https://github.com/jazzband/django-cookie-consent) - Reusable application for managing various cookies and visitors consent for their use in Django project.
+- [django-commons/django-cookie-consent](https://github.com/django-commons/django-cookie-consent) - Reusable application for managing various cookies and visitors consent for their use in Django project.
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [ptmcg/littletable](https://github.com/ptmcg/littletable) - An in-memory database of Python objects, searchable using quasi-SQL API
@@ -1436,7 +1437,7 @@
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.
-- [jazzband/django-waffle](https://github.com/jazzband/django-waffle) - A feature flipper for Django
+- [django-waffle/django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django
 - [dsoftwareinc/django-rq-scheduler](https://github.com/dsoftwareinc/django-rq-scheduler) - Package migrated to https://github.com/dsoftwareinc/django-tasks-scheduler
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
@@ -1586,7 +1587,7 @@
 - [Ankit404butfound/PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit) - Send WhatsApp message at certain time and many other things.
 - [jazzband/django-categories](https://github.com/jazzband/django-categories) - This app attempts to provide a generic category system that multiple apps could use. It uses MPTT for the tree storage and provides a custom admin for better visualization (copied and modified from fe
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
-- [jazzband/django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from admin site.
+- [django-commons/django-simple-history](https://github.com/django-commons/django-simple-history) - Store model history and view/revert changes from admin site.
 - [jazzband/django-authority](https://github.com/jazzband/django-authority) - A Django app that provides generic per-object-permissions for Django's auth app and helpers to create custom permission checks.
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
@@ -1710,7 +1711,7 @@
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
-- [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
