@@ -87,6 +87,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
@@ -110,7 +111,6 @@
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-- [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [jamesroberts/fastwsgi](https://github.com/jamesroberts/fastwsgi) - An ultra fast WSGI server for Python 3
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -147,11 +147,11 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 
 ## CSS 
 
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [hypy13/django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard built with daisyui
 - [Mossy1022/Smart-Memos](https://github.com/Mossy1022/Smart-Memos) - Super-human brainstorming and note-taking by smart transcribing your voice! This involves a complete transcript, a summary, an expansion on the concepts presented, and a fully customizable analysis of
@@ -377,6 +377,7 @@
 - [xtrinch/fcm-django-web-demo](https://github.com/xtrinch/fcm-django-web-demo) - Quick demo to demonstrate the use of firebase web push notifications with the use of `javascript` on frontend, `django` on backend and push notifications via `fcm-django` pypi package for django.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
@@ -424,6 +425,7 @@
 
 ## JavaScript 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [asadm/vibemode](https://github.com/asadm/vibemode) - Pack your repo into an AI-friendly format and apply AI suggested changes back with ease, all from your terminal.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -452,7 +454,6 @@
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Tobi-De/hyperview-starter](https://github.com/Tobi-De/hyperview-starter) - Project starter for hyperview, an hypermedia based mobile app framework.
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [dy/spect](https://github.com/dy/spect) - Observable selectors in DOM
@@ -738,7 +739,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [modern-python/fastapi-sqlalchemy-template](https://github.com/modern-python/fastapi-sqlalchemy-template) - Dockerized web application with DI on FastAPI, sqlalchemy2, PostgreSQL
 - [Goldziher/spikard](https://github.com/Goldziher/spikard) - A Universal LLM Client
-- [joaompinto/janito](https://github.com/joaompinto/janito) - Natural Language Programming  Agent
+- [joaompinto/janito](https://github.com/joaompinto/janito) - Language Model Thin Client
 - [patrick91/trak](https://github.com/patrick91/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework capable of large file streaming.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
@@ -785,7 +786,6 @@
 - [notypecheck/aioinject](https://github.com/notypecheck/aioinject) - Async-first python dependency injection library
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
-- [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines
 - [gitspatch/gitspatch](https://github.com/gitspatch/gitspatch) - Trigger GitHub Actions from anywhere
 - [jasongi/collectfasta](https://github.com/jasongi/collectfasta) - A fasta collectstatic command.
 - [defnull/multipart_bench](https://github.com/defnull/multipart_bench) - Benchmarks for Python based multipart/form-data parsers
@@ -838,7 +838,7 @@
 - [epuerta9/kitchenai](https://github.com/epuerta9/kitchenai) - Open Source LLMOps tool for AI teams
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [dbfixtures/mirakuru](https://github.com/dbfixtures/mirakuru) - Mirakuru - a python library that starts your subprocess and waits for a clear indication, that it's running (process orchestrator)
-- [usefulsensors/moonshine](https://github.com/usefulsensors/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
@@ -1239,7 +1239,7 @@
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [pycontribs/mk](https://github.com/pycontribs/mk) - mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Kludex/python-monorepo](https://github.com/Kludex/python-monorepo) - The Python Monorepo template! :tada:
@@ -1840,7 +1840,6 @@
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
@@ -1947,6 +1946,7 @@
 
 ## Shell 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge) - go the distance
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [rdietrick/did-files-change](https://github.com/rdietrick/did-files-change) - Action which outputs a value that indicates whether specific resources changed in a push.
@@ -1999,6 +1999,7 @@
 
 ## TypeScript 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -2011,6 +2012,7 @@
 - [desko27/react-call](https://github.com/desko27/react-call) - ⚛️ 📡 Call your React components
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
+- [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines
 - [fresho-dev/mancha](https://github.com/fresho-dev/mancha) - 
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
