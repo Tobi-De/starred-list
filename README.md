@@ -365,7 +365,6 @@
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bufferhead-code/htmx-ai](https://github.com/bufferhead-code/htmx-ai) - Add AI support to HTMX
 - [django-crispy-forms/crispy-tailwind](https://github.com/django-crispy-forms/crispy-tailwind) - A Tailwind template pack for django-crispy-forms
@@ -722,6 +721,7 @@
 
 ## Python 
 
+- [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter) - Django startproject template for Django projects with batteries included and nice tooling.
 - [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers) - An easy way to use different serializers for different actions and request methods in Django REST Framework
 - [Textualize/textual-ganglion](https://github.com/Textualize/textual-ganglion) - Server for textual.web
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
@@ -916,6 +916,7 @@
 - [feincms/form-designer](https://github.com/feincms/form-designer) - A simple form designer for Django
 - [dmulholl/ark](https://github.com/dmulholl/ark) - A static website generator for people who enjoy the simpler things in life.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [willmcgugan/declare](https://github.com/willmcgugan/declare) - Syntactical sugar for Python class attributes
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
@@ -1568,7 +1569,7 @@
 - [tutorcruncher/morpheus](https://github.com/tutorcruncher/morpheus) - 
 - [Koed00/django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
-- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
