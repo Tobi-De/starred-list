@@ -2185,7 +2185,7 @@
 ## Vala 
 
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux.
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager
 - [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
 
 ## Vim Script 
