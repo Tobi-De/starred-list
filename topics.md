@@ -255,7 +255,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own data. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your pr
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -638,6 +638,7 @@
 
 ## cli 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
@@ -1008,8 +1009,8 @@
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Icon components for popular packs (starting with Heroicons)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Plug and play Heroicons and Tabler icons for Django Cotton.
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [Bishwas-py/djapy](https://github.com/Bishwas-py/djapy) - No bullshit, Django Rest API Framework
@@ -1344,7 +1345,7 @@
 
 ## documentation 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
@@ -1378,7 +1379,6 @@
 
 ## electron 
 
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
@@ -1591,6 +1591,7 @@
 
 ## git 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -2162,7 +2163,7 @@
 ## json 
 
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
@@ -2772,6 +2773,8 @@
 
 ## others 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter) - Django startproject template for Django projects with batteries included and nice tooling.
 - [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers) - An easy way to use different serializers for different actions and request methods in Django REST Framework
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
@@ -3050,7 +3053,7 @@
 - [sunpy/ablog](https://github.com/sunpy/ablog) - ABlog for blogging with Sphinx
 - [ewjoachim/sphinx-github-changelog](https://github.com/ewjoachim/sphinx-github-changelog) - Build a sphinx changelog from GitHub Releases
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [westerveltco/django-email-relay](https://github.com/westerveltco/django-email-relay) - Centralize and relay email from multiple distributed Django projects to an internal SMTP server via a database queue
 - [PyHAT-stack/web-async-patterns](https://github.com/PyHAT-stack/web-async-patterns) - This repo shows patterns you can use to elevate Python web apps via streaming HTML and htmx
 - [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
@@ -4320,7 +4323,7 @@
 
 ## reactjs 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -4482,8 +4485,8 @@
 
 ## self-hosted 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own data. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your pr
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit.
