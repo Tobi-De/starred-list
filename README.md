@@ -724,6 +724,7 @@
 
 ## Python 
 
+- [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [kdpisda/django-rls](https://github.com/kdpisda/django-rls) - Row Level Security for Django
 - [husseinnaeemsec/octopusdash](https://github.com/husseinnaeemsec/octopusdash) - Dynamic Django admin panel
 - [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter) - Django startproject template for Django projects with batteries included and nice tooling.
