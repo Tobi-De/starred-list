@@ -35,6 +35,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -251,11 +252,10 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own setup. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your p
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -412,6 +412,7 @@
 
 ## artificial-intelligence 
 
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -695,6 +696,17 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## cms 
+
+- [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+- [coderedcorp/coderedcms](https://github.com/coderedcorp/coderedcms) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
+- [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
 ## code 
 
@@ -2708,7 +2720,7 @@
 ## open-source 
 
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -2778,6 +2790,7 @@
 
 ## others 
 
+- [demestav/django-tabler-icons](https://github.com/demestav/django-tabler-icons) - 
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
