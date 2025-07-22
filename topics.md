@@ -3073,7 +3073,7 @@
 - [sunpy/ablog](https://github.com/sunpy/ablog) - ABlog for blogging with Sphinx
 - [ewjoachim/sphinx-github-changelog](https://github.com/ewjoachim/sphinx-github-changelog) - Build a sphinx changelog from GitHub Releases
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [westerveltco/django-email-relay](https://github.com/westerveltco/django-email-relay) - Centralize and relay email from multiple distributed Django projects to an internal SMTP server via a database queue
 - [PyHAT-stack/web-async-patterns](https://github.com/PyHAT-stack/web-async-patterns) - This repo shows patterns you can use to elevate Python web apps via streaming HTML and htmx
 - [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
