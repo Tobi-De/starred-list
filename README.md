@@ -750,7 +750,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [modern-python/fastapi-sqlalchemy-template](https://github.com/modern-python/fastapi-sqlalchemy-template) - Dockerized web application with DI on FastAPI, sqlalchemy2, PostgreSQL
 - [Goldziher/spikard](https://github.com/Goldziher/spikard) - A Universal LLM Client
-- [janito-dev/janito](https://github.com/janito-dev/janito) - Large Language Model Thin Client agent
+- [ikignosis/janito](https://github.com/ikignosis/janito) - Large Language Model Thin Client agent
 - [patrick91/trak](https://github.com/patrick91/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework capable of large file streaming with low memory footprint.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
