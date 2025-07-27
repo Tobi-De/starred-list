@@ -232,7 +232,6 @@
 
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
@@ -491,7 +490,7 @@
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [donotebase/quasar-tiptap](https://github.com/donotebase/quasar-tiptap) - A modern WYSIWYG rich-text editor built on top of tiptap and Quasar for Vue.js.
 - [edelvalle/djhtmx](https://github.com/edelvalle/djhtmx) - Interactive UI components for Django using htmx.org
-- [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
+- [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - 🙌 Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
@@ -724,6 +723,7 @@
 
 ## Python 
 
+- [dumaas/django-ulidfield](https://github.com/dumaas/django-ulidfield) - A drop-in Django model field for storing sortable, time-encoded ULIDs as 26-character strings.
 - [demestav/django-tabler-icons](https://github.com/demestav/django-tabler-icons) - 
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
@@ -1945,6 +1945,7 @@
 
 ## SCSS 
 
+- [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [Stanko/dual-range-input](https://github.com/Stanko/dual-range-input) - Native dual range input in 60 lines of JavaScript.
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
 
@@ -2013,12 +2014,12 @@
 ## TypeScript 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
