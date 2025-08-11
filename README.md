@@ -153,7 +153,6 @@
 
 ## CSS 
 
-- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [hypy13/django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard built with daisyui
 - [Mossy1022/Smart-Memos](https://github.com/Mossy1022/Smart-Memos) - Super-human brainstorming and note-taking by smart transcribing your voice! This involves a complete transcript, a summary, an expansion on the concepts presented, and a fully customizable analysis of
 - [Tobi-De/litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli) - Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
@@ -233,7 +232,6 @@
 
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
@@ -299,7 +297,7 @@
 - [gofiber/template](https://github.com/gofiber/template) - 🧬 Template engine middleware for Fiber
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [nguyenvanduocit/ai-commit](https://github.com/nguyenvanduocit/ai-commit) - CLI tool that use ChatGPT to generate commit message for your git repo.
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -619,6 +617,7 @@
 
 ## Others 
 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
@@ -727,6 +726,7 @@
 
 ## Python 
 
+- [dotenvx/python-dotenvx](https://github.com/dotenvx/python-dotenvx) - [dotenvx.com] a better dotenv–from the creator of `dotenv`
 - [loopwerk/django-generic-notifications](https://github.com/loopwerk/django-generic-notifications) - A flexible, multi-channel notification system for Django applications with built-in support for email digests, user preferences, and extensible delivery channels.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [adamghill/dj-lite](https://github.com/adamghill/dj-lite) - Configure SQLite for production use with Django.
@@ -2023,6 +2023,7 @@
 ## TypeScript 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
