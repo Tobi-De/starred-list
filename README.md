@@ -230,8 +230,10 @@
 
 ## Go 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
@@ -283,7 +285,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [fly-apps/postgres-ha](https://github.com/fly-apps/postgres-ha) - Postgres + Stolon for HA clusters as Fly apps.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
@@ -544,6 +546,7 @@
 
 ## Jupyter Notebook 
 
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -553,7 +556,7 @@
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [adriangb/asgi-routing](https://github.com/adriangb/asgi-routing) - 
 - [adriangb/routrie](https://github.com/adriangb/routrie) - 
@@ -786,7 +789,6 @@
 - [Bishwas-py/djapy](https://github.com/Bishwas-py/djapy) - No bullshit, Django Rest API Framework
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python SDK to Interact with Intelligent Code Generation Agents
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
@@ -967,6 +969,7 @@
 - [jsocol/django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
 - [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
 - [Tobi-De/falco_blueprint_basic_pico](https://github.com/Tobi-De/falco_blueprint_basic_pico) - 
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [hatchet-dev/hatchet-python-quickstart](https://github.com/hatchet-dev/hatchet-python-quickstart) - Quickstart for Hatchet using the Python SDK with examples for common frameworks
 - [sphinx-contrib/plantuml](https://github.com/sphinx-contrib/plantuml) - 
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -1566,7 +1569,7 @@
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [koaning/clumper](https://github.com/koaning/clumper) - A small python library that can clump lists of data together.
-- [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
+- [django-oauth/django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
@@ -1860,7 +1863,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [darrenburns/o4t](https://github.com/darrenburns/o4t) - terminal based typing game
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Run, validate and execute GitHub Actions locally.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
@@ -1980,7 +1983,6 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ublue-os/hwe](https://github.com/ublue-os/hwe) - Fedora variants with support for ASUS devices, Nvidia devices, and Surface laptops
 - [dobicinaitis/tailwind-cli-extra](https://github.com/dobicinaitis/tailwind-cli-extra) - Tailwind CSS standalone CLI bundled with daisyUI
-- [piepworks/blaze-starter](https://github.com/piepworks/blaze-starter) - Blaze.horse — Django Starter Kit
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild
 - [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1990,6 +1992,7 @@
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
 - [distributhor/workflow-webhook](https://github.com/distributhor/workflow-webhook) - A Github workflow action to call a webhook with payload data from the event. Support for JSON or URL encoded endpoints.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
@@ -2023,7 +2026,6 @@
 ## TypeScript 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -2072,7 +2074,6 @@
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal) - 
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
@@ -2084,7 +2085,6 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 
