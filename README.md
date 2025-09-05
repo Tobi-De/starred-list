@@ -158,7 +158,6 @@
 - [Tobi-De/litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli) - Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
-- [dctanner/htmljs-todo-example](https://github.com/dctanner/htmljs-todo-example) - 
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [codingforentrepreneurs/micro-ecommerce](https://github.com/codingforentrepreneurs/micro-ecommerce) - Learn how to build a Micro eCommerce Web App with Python, Serverless Postgres, and Stripe Checkout. Live demo at url below.
 - [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx, with great supports for many sphinx extensions.
@@ -234,6 +233,7 @@
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
@@ -277,7 +277,7 @@
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [mblayman/journal](https://github.com/mblayman/journal) - A (former) SaaS Journal
@@ -547,7 +547,6 @@
 
 ## Jupyter Notebook 
 
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -572,6 +571,7 @@
 
 ## Kotlin 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [tonybaloney/pycharm-security](https://github.com/tonybaloney/pycharm-security) - Finds security holes in your Python projects from PyCharm and GitHub
@@ -621,6 +621,7 @@
 
 ## Others 
 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
@@ -731,6 +732,7 @@
 
 ## Python 
 
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Yet another static analysis tool for Python codebases written in Python that detects dead code. Faster and better than the rest :)
 - [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 - [efe/yesglot](https://github.com/efe/yesglot) - LLM-powered Django translations ✨ Just call me "python manage.py translatemessages"
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
@@ -752,7 +754,7 @@
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [schireson/databudgie](https://github.com/schireson/databudgie) - standalone library/cli tool for database backup/restore
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) - MCP server for Docker
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [aimedey19/django-ai-translate](https://github.com/aimedey19/django-ai-translate) - AI-powered automatic translation for Django `.po` files.
@@ -795,6 +797,7 @@
 - [Bishwas-py/djapy](https://github.com/Bishwas-py/djapy) - No bullshit, Django Rest API Framework
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python SDK to Interact with Intelligent Code Generation Agents
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
@@ -828,7 +831,7 @@
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [irgeek/StrEnum](https://github.com/irgeek/StrEnum) - A Python Enum that inherits from str.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Python Library for Automating ISO 20022-Compliant Payment Files Using CSV Or SQlite Data Files. 🐍
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
@@ -962,7 +965,7 @@
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [Hamatti/config-renderer](https://github.com/Hamatti/config-renderer) - A Python CLI utility to generate HTML documentation from dotfiles
 - [django-ftl/django-ftl](https://github.com/django-ftl/django-ftl) - Django bindings for 'fluent', a modern internationalization (i18n) and localization (l10n) solution
-- [matthiask/django-prose-editor](https://github.com/matthiask/django-prose-editor) - ProseMirror-based HTML editor for Django
+- [feincms/django-prose-editor](https://github.com/feincms/django-prose-editor) - ProseMirror-based HTML editor for Django
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [wemake-services/dump-env](https://github.com/wemake-services/dump-env) - A utility tool to create .env files
 - [GoogleCloudPlatform/database-assessment](https://github.com/GoogleCloudPlatform/database-assessment) - Database Migration Assessment
@@ -1029,14 +1032,14 @@
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [stphivos/django-mock-queries](https://github.com/stphivos/django-mock-queries) - A library for mocking django queryset functions in memory for testing
-- [matthiask/django-imagefield](https://github.com/matthiask/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
+- [feincms/django-imagefield](https://github.com/feincms/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
 - [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.2.
 - [Cheukting/briefcase-positron-template](https://github.com/Cheukting/briefcase-positron-template) - A cookiecutter template for a starter Briefcase project.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [mwilliamson/spur.py](https://github.com/mwilliamson/spur.py) - Run commands and manipulate files locally or over SSH using the same interface
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [abersheeran/a2wsgi](https://github.com/abersheeran/a2wsgi) - Convert WSGI app to ASGI app or ASGI app to WSGI app.
@@ -1068,7 +1071,7 @@
 - [aimedey19/fleetfind](https://github.com/aimedey19/fleetfind) - A Django package for searching across multiple models
 - [jpsca/jinjax](https://github.com/jpsca/jinjax) - Server-Side Components with Jinja
 - [romgar/django-dirtyfields](https://github.com/romgar/django-dirtyfields) - Tracking dirty fields on a Django model
-- [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
+- [feincms/django-json-schema-editor](https://github.com/feincms/django-json-schema-editor) - 
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
 - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
@@ -1268,7 +1271,7 @@
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [pycontribs/mk](https://github.com/pycontribs/mk) - mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Kludex/python-monorepo](https://github.com/Kludex/python-monorepo) - The Python Monorepo template! :tada:
@@ -1355,7 +1358,7 @@
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
 - [Acreom/quickadd](https://github.com/Acreom/quickadd) - Parse natural language time and date expressions in python
-- [anymail/django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
+- [anymail/django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, Scaleway TEM, SendGrid, SparkPost, Unisender Go and more
 - [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
 - [klen/asgi-tools](https://github.com/klen/asgi-tools) - Tools to build ASGI apps
 - [zostera/django-bootstrap5](https://github.com/zostera/django-bootstrap5) - Bootstrap 5 for Django
@@ -1595,7 +1598,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
 - [adamchainz/django-watchfiles](https://github.com/adamchainz/django-watchfiles) - Use watchfiles in Django’s autoreloader.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
@@ -1774,7 +1777,7 @@
 - [feincms/django-content-editor](https://github.com/feincms/django-content-editor) - Editing structured content
 - [mxdmedia/django-channels-playground](https://github.com/mxdmedia/django-channels-playground) - A playground for working with django channels.
 - [justinmayer/django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [jazzband/djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - A JSON Web Token authentication plugin for the Django REST Framework.
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
@@ -1802,7 +1805,7 @@
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [dheera/magicimport.py](https://github.com/dheera/magicimport.py) - 
-- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -1861,7 +1864,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [raganwald-deprecated/homoiconic](https://github.com/raganwald-deprecated/homoiconic) - An experiment in publishing code and words about code on a small scale.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 
 ## Rust 
 
@@ -2034,7 +2037,6 @@
 
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp) - MCP Server for Firefly III
 - [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -2129,7 +2131,7 @@
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [adifyr/obsidian-chat-view](https://github.com/adifyr/obsidian-chat-view) - An elegant chat view for Obsidian pages.
-- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
@@ -2231,6 +2233,7 @@
 
 ## Zig 
 
+- [jetzig-framework/zmpl](https://github.com/jetzig-framework/zmpl) - Zmpl is a templating language written in Zig
 - [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
