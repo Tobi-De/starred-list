@@ -776,7 +776,7 @@
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [tastyware/streaq](https://github.com/tastyware/streaq) - Fast, async, type-safe distributed task queue via Redis streams
+- [tastyware/streaq](https://github.com/tastyware/streaq) - Fast, async, fully-typed distributed task queue via Redis streams
 - [medihack/django-block-fragments](https://github.com/medihack/django-block-fragments) - Render only the content of a specific block of a Django template.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -1868,6 +1868,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
