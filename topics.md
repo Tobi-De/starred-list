@@ -260,7 +260,7 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
@@ -307,7 +307,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -1087,6 +1087,7 @@
 
 ## django 
 
+- [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [adamghill/dj-toml-settings](https://github.com/adamghill/dj-toml-settings) - Load Django settings from a TOML file
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
@@ -1332,7 +1333,7 @@
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [abrookins/quest](https://github.com/abrookins/quest) - Example app for the book The Temple of Django Database Performance, 2nd Edition
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
@@ -1902,6 +1903,7 @@
 
 ## hacktoberfest 
 
+- [CuriousLearner/django-phone-verify](https://github.com/CuriousLearner/django-phone-verify) - A Django app to support phone number verification using security code / One-Time-Password (OTP) sent via SMS.
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
@@ -2449,7 +2451,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 
@@ -2605,7 +2607,7 @@
 - [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
 - [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
@@ -2659,7 +2661,7 @@
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
 
@@ -2860,7 +2862,7 @@
 
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -2916,7 +2918,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using ChatGPT
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 
@@ -3764,7 +3766,7 @@
 - [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
@@ -4060,7 +4062,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [abilian/nua](https://github.com/abilian/nua) - Open source PaaS and application marketplace
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping APIs (self-hosted)
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -4821,7 +4823,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
-- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
