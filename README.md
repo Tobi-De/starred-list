@@ -1591,7 +1591,7 @@
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -1919,7 +1919,7 @@
 - [owo-colors/owo-colors](https://github.com/owo-colors/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [bilelmoussaoui/oo7](https://github.com/bilelmoussaoui/oo7) - James Bond went on a new mission as a Secret Service provider
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
