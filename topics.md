@@ -365,6 +365,7 @@
 
 ## android 
 
+- [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1413,6 +1414,7 @@
 
 ## docker 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [modern-python/fastapi-sqlalchemy-template](https://github.com/modern-python/fastapi-sqlalchemy-template) - Dockerized web application with DI on FastAPI, sqlalchemy2, PostgreSQL
@@ -1974,6 +1976,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
@@ -2437,6 +2440,8 @@
 
 ## linux 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
@@ -3022,6 +3027,7 @@
 
 ## others 
 
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression) - Django middleware for compressing HTTP responses with Zstandard, Brotli, or Gzip.
 - [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere) - Run manage.py commands  from anywhere. Finds the closest to current path manage.py file and runs commands against it.
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
@@ -3234,7 +3240,6 @@
 - [sligodave/dynamic_databases](https://github.com/sligodave/dynamic_databases) - Django App that allows for the addition of databases on the fly and also the ability to query the database's tables through dynamically generated models.
 - [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) - Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS.
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
-- [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [brettcannon/rescript-test](https://github.com/brettcannon/rescript-test) - A lightweight test framework for ReScript
@@ -4105,7 +4110,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
@@ -4775,6 +4780,7 @@
 
 ## security 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [kdpisda/django-rls](https://github.com/kdpisda/django-rls) - Row Level Security for Django
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -4833,6 +4839,7 @@
 
 ## server 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
