@@ -636,6 +636,8 @@
 
 ## Others 
 
+- [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
+- [j178/prek-action](https://github.com/j178/prek-action) - A GitHub Action that runs pre-commit hooks using prek in your CI/CD pipeline
 - [castrojo/cosmicpilot](https://github.com/castrojo/cosmicpilot) - bluefin with cosmic.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
