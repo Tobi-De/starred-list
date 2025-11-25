@@ -750,6 +750,8 @@
 
 ## Python 
 
+- [ducdetronquito/pybun](https://github.com/ducdetronquito/pybun) - The bun toolkit, packaged for Python 🍞 + 🐍 = 🚀
+- [adamghill/dj-waf](https://github.com/adamghill/dj-waf) - Add WAF rules to block known bots and malicious traffic for Django applications. Provides easy integration with popular WAF services like Cloudflare.
 - [ambient-innovation/boa-restrictor](https://github.com/ambient-innovation/boa-restrictor) - A Python and Django linting library
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [bhch/django-jsonform](https://github.com/bhch/django-jsonform) - A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.
@@ -1440,7 +1442,7 @@
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [Kludex/fastapi-health](https://github.com/Kludex/fastapi-health) - Implement the Health Check API pattern on your FastAPI application! :rocket:
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [lincolnloop/django-alive](https://github.com/lincolnloop/django-alive) - Healthchecks for Django
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
