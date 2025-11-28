@@ -439,6 +439,7 @@
 
 ## JavaScript 
 
+- [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [williamtroup/Calendar.js](https://github.com/williamtroup/Calendar.js) - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
@@ -2314,7 +2315,7 @@
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
 ## License
