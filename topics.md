@@ -1315,7 +1315,7 @@
 - [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.
-- [Tijani-Dia/dj-tracker](https://github.com/Tijani-Dia/dj-tracker) - A Django app that tracks your queries to help optimize them. Demo: https://shorturl.at/5y6ix
+- [Tijani-Dia/dj-tracker](https://github.com/Tijani-Dia/dj-tracker) - A Django app that tracks your queries to help optimize them. See Qorme for automated ORM optimization: https://qorme.com?ref=dj-tracker
 - [wq/wq](https://github.com/wq/wq) - 📱🌐📋 wq: a modular framework supporting web / native apps for mobile surveys and geospatial data collection.  Powered by Django REST Framework, Redux, React, and Material UI.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
