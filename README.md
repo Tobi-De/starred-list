@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [canonical/microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
@@ -988,7 +989,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
@@ -2053,6 +2054,7 @@
 
 ## Shell 
 
+- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
