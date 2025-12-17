@@ -994,7 +994,7 @@
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [adamchainz/django-harlequin](https://github.com/adamchainz/django-harlequin) - Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [gabrieldemarmiesse/python-on-whales](https://github.com/gabrieldemarmiesse/python-on-whales) - An awesome Python wrapper for an awesome Docker CLI!
@@ -1080,7 +1080,7 @@
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
 - [cedar-team/django-bulk-load](https://github.com/cedar-team/django-bulk-load) - Load large batches of Django models into the database
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
+- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django and svektekit
 - [arneb/django-campaign](https://github.com/arneb/django-campaign) - Newsletter management app for Django
 - [uploadcare/pyuploadcare](https://github.com/uploadcare/pyuploadcare) - Build file handling in minutes. Upload or accept user-generated content, store, transform, optimize, and deliver images, videos, and documents to billions of users.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
