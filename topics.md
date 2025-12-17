@@ -278,6 +278,7 @@
 ## ai 
 
 - [mikeckennedy/aiusage](https://github.com/mikeckennedy/aiusage) - A very simple CLI util to help you avoid going over your limits in tools like Cursor, etc.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -343,6 +344,7 @@
 ## ai-agents 
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
@@ -593,7 +595,7 @@
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -651,7 +653,7 @@
 - [arunalabs/mode](https://github.com/arunalabs/mode) - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -705,6 +707,7 @@
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked w
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
@@ -721,7 +724,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nrempel/sleek](https://github.com/nrempel/sleek) - Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -815,7 +818,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [nrempel/sleek](https://github.com/nrempel/sleek) - Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -955,7 +958,7 @@
 ## data-engineering 
 
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1157,7 +1160,7 @@
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1181,6 +1184,7 @@
 
 ## django 
 
+- [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [codingjoe/django-crontask](https://github.com/codingjoe/django-crontask) - Cron style scheduler for Django's task framework
 - [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
@@ -1251,7 +1255,7 @@
 - [boxed/urd](https://github.com/boxed/urd) - A scheduler for Django projects
 - [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django) - The Best Django Resource, Awesome Django for mature packages.
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
+- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django and svektekit
 - [arneb/django-campaign](https://github.com/arneb/django-campaign) - Newsletter management app for Django
 - [falcopackages/starter-template](https://github.com/falcopackages/starter-template) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
 - [stphivos/django-mock-queries](https://github.com/stphivos/django-mock-queries) - A library for mocking django queryset functions in memory for testing
@@ -2691,7 +2695,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
@@ -3060,7 +3064,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [fmerian/awesome-developer-first-channels](https://github.com/fmerian/awesome-developer-first-channels) - hand-picked places to promote your developer-first product
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
+- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django and svektekit
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -3125,6 +3129,7 @@
 
 ## others 
 
+- [icitry/SVGWebsite](https://github.com/icitry/SVGWebsite) - 
 - [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
 - [canonical/microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 - [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
@@ -3174,7 +3179,6 @@
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter) - Django startproject template for Django projects with batteries included and nice tooling.
 - [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers) - An easy way to use different serializers for different actions and request methods in Django REST Framework
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
@@ -3335,7 +3339,7 @@
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
 - [mCodingLLC/VideosSampleCode](https://github.com/mCodingLLC/VideosSampleCode) - Code from the mCoding sample videos
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
-- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
+- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload) - Automatic browser reload plugin for Litestar, designed for development use.
 - [cofin/litestar-aiosql](https://github.com/cofin/litestar-aiosql) - Aiosql plugin for Litestar
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
@@ -4055,6 +4059,7 @@
 
 ## python 
 
+- [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [ducdetronquito/pybun](https://github.com/ducdetronquito/pybun) - The bun toolkit, packaged for Python 🍞 + 🐍 = 🚀
@@ -4145,7 +4150,7 @@
 - [mliezun/caddy-snake](https://github.com/mliezun/caddy-snake) - Caddy plugin to serve Python apps
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
@@ -4616,7 +4621,6 @@
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [mbarkhau/bumpver](https://github.com/mbarkhau/bumpver) - BumpVer: Automatic Versioning
 - [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
 - [ahawker/ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
 - [mathspp/building-a-python-compiler-and-interpreter](https://github.com/mathspp/building-a-python-compiler-and-interpreter) - Code for the article series on building a Python compiler and interpreter
 - [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server) - An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
@@ -4717,7 +4721,7 @@
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 
@@ -5018,7 +5022,7 @@
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5140,6 +5144,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django and svektekit
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
@@ -5606,7 +5611,7 @@
 
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
