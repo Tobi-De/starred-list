@@ -754,6 +754,7 @@
 
 ## Python 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 - [queelius/crier](https://github.com/queelius/crier) - Cross-post your content to dev.to, Hashnode, Medium, Bluesky, Mastodon, and more
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
@@ -1476,7 +1477,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [xelixdev/django-pgviews-redux](https://github.com/xelixdev/django-pgviews-redux) - Fork of django-postgres that focuses on maintaining and improving support for Postgres SQL Views.
-- [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
+- [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
 - [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
