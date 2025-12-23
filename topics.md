@@ -301,7 +301,7 @@
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -349,7 +349,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -1124,7 +1124,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1187,6 +1187,7 @@
 
 ## django 
 
+- [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [codingjoe/django-crontask](https://github.com/codingjoe/django-crontask) - Cron style scheduler for Django's task framework
 - [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
@@ -1707,6 +1708,7 @@
 
 ## framework 
 
+- [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -3622,7 +3624,7 @@
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
-- [dy/sprae](https://github.com/dy/sprae) - Signals-based hydration for HTML/JSX tree
+- [dy/sprae](https://github.com/dy/sprae) - Reactive sprinkles for HTML/JSX
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
@@ -4098,7 +4100,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [adamghill/troml](https://github.com/adamghill/troml) - Suggests classifiers for Python packages.
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) - zero-dependency image processing library
-- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Yet another static analysis tool for Python codebases written in Python that detects dead code + common security flaws created by ai. Faster and better than the rest :) also, who let the dawgs out?
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Skylos is the watchdog for your repository. It maps your code's structure to hunt down dead logic, trace tainted data, and kill security rot
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -4165,7 +4167,7 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [mliezun/caddy-snake](https://github.com/mliezun/caddy-snake) - Caddy plugin to serve Python apps
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
@@ -4945,7 +4947,7 @@
 - [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf) - Django modern CSRF protection using Fetch Metadata request headers instead of tokens.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Yet another static analysis tool for Python codebases written in Python that detects dead code + common security flaws created by ai. Faster and better than the rest :) also, who let the dawgs out?
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Skylos is the watchdog for your repository. It maps your code's structure to hunt down dead logic, trace tainted data, and kill security rot
 - [kdpisda/django-rls](https://github.com/kdpisda/django-rls) - Row Level Security for Django
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -5294,6 +5296,7 @@
 
 ## testing 
 
+- [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
