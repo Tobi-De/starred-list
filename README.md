@@ -233,6 +233,7 @@
 
 ## Go 
 
+- [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
 - [canonical/microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -365,7 +366,7 @@
 - [adamghill/django-homepage](https://github.com/adamghill/django-homepage) - Redesigned djangoproject.com
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
-- [Goldziher/html-to-markdown](https://github.com/Goldziher/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter
+- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [SarthakJariwala/shadcn-django](https://github.com/SarthakJariwala/shadcn-django) - shadcn/ui for Django ✨
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
@@ -467,7 +468,7 @@
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [spirodonfl/htmx-offline-mode](https://github.com/spirodonfl/htmx-offline-mode) - Adding offline mode capabilities to HTMX
 - [kgscialdone/htmx-template](https://github.com/kgscialdone/htmx-template) - HTMX extension enabling it to retrieve the contents of &lt;template&gt; elements rather than make an HTTP request
-- [oriol-martinez/hx-take](https://github.com/oriol-martinez/hx-take) - An htmx extension that allows to select and swap existing elements.
+- [oriolmrt/hx-take](https://github.com/oriolmrt/hx-take) - An htmx extension that allows to select and swap existing elements.
 - [mathiasag7/event-ease](https://github.com/mathiasag7/event-ease) - 
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -1375,7 +1376,7 @@
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - TUI-based toolkit for GitHub-data analysis.
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
