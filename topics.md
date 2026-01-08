@@ -192,6 +192,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -1744,7 +1745,7 @@
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2180,7 +2181,7 @@
 - [piccolo-orm/piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database.
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -2950,7 +2951,7 @@
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 
 ## nodejs 
@@ -3552,7 +3553,7 @@
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
 - [thewilltejeda/htmx-realtime-charts-with-plotly](https://github.com/thewilltejeda/htmx-realtime-charts-with-plotly) - 
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [Slimbook-Team/slimbookface](https://github.com/Slimbook-Team/slimbookface) - Slimbook Face is an application that allows you to graphically manage multiple faces with boltgolt/howdy and enable PAM authentication throughout the system, or disable it at login, since login fails 
@@ -4086,6 +4087,12 @@
 
 - [Kludex/fastapix](https://github.com/Kludex/fastapix) - FastAPI X is a powerful CLI tool to help you! :rocket:
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
+
+## prompt-engineering 
+
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 
 ## publishing 
 
@@ -5502,7 +5509,7 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [formvuelate/formvuelate](https://github.com/formvuelate/formvuelate) - Dynamic schema-based form rendering for VueJS
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [wearebraid/vue-formulate](https://github.com/wearebraid/vue-formulate) - ⚡️ The easiest way to build forms with Vue.
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
 - [vchaptsev/cookiecutter-django-vue](https://github.com/vchaptsev/cookiecutter-django-vue) - Cookiecutter Django Vue is a template for Django-Vue projects.
