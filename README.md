@@ -757,7 +757,8 @@
 
 ## Python 
 
-- [phalt/clientele](https://github.com/phalt/clientele) - A different way to think about Python API Clients
+- [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
+- [phalt/clientele](https://github.com/phalt/clientele) - A different way to build Python API Clients
 - [Klavionik/copykitten](https://github.com/Klavionik/copykitten) - Robust, dependency-free way to use the system clipboard in Python.
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
@@ -1222,7 +1223,7 @@
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
 - [thewilltejeda/htmx-realtime-charts-with-plotly](https://github.com/thewilltejeda/htmx-realtime-charts-with-plotly) - 
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [Slimbook-Team/slimbookface](https://github.com/Slimbook-Team/slimbookface) - Slimbook Face is an application that allows you to graphically manage multiple faces with boltgolt/howdy and enable PAM authentication throughout the system, or disable it at login, since login fails 
