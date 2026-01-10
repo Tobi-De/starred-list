@@ -838,7 +838,7 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
 - [lethain/library-mcp](https://github.com/lethain/library-mcp) - MCP server for operating on Markdown knowledge bases
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -978,6 +978,7 @@
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
@@ -2114,7 +2115,6 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
