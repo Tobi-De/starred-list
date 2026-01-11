@@ -491,7 +491,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -2201,7 +2201,7 @@
 ## html 
 
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
-- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg.dev team. Kreuzberg.dev is a fast, polyglot document intelligence engine with a Rust core. It extracts
+- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -2717,7 +2717,7 @@
 ## markdown 
 
 - [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
-- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg.dev team. Kreuzberg.dev is a fast, polyglot document intelligence engine with a Rust core. It extracts
+- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -4139,7 +4139,7 @@
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework for handling large file uploads. Zero-dependency.
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -4661,7 +4661,7 @@
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework for handling large file uploads. Zero-dependency.
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
@@ -4750,7 +4750,7 @@
 
 ## rag 
 
-- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg.dev team. Kreuzberg.dev is a fast, polyglot document intelligence engine with a Rust core. It extracts
+- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
@@ -4874,7 +4874,7 @@
 ## reverse-engineering 
 
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 
 ## robotics 
 
@@ -5331,7 +5331,7 @@
 
 - [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
+- [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
