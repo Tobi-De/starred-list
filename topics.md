@@ -3164,6 +3164,7 @@
 
 ## others 
 
+- [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
 - [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
 - [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill) - A Claude Code skill for crafted, enterprise-grade UI design
 - [Klavionik/copykitten](https://github.com/Klavionik/copykitten) - Robust, dependency-free way to use the system clipboard in Python.
@@ -5138,7 +5139,7 @@
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Python Library for Automating ISO 20022-Compliant Payment Files Using CSV Or SQlite Data Files. 🐍
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Powerful Python Library that enables you to create ISO 20022-Compliant Payment Files from CSV, SQLite, or Python data structures.🐍
 - [corridor/sqlalchemy-history](https://github.com/corridor/sqlalchemy-history) - Library to keep track of changes in SQLAlchemy.
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
