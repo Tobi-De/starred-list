@@ -2103,7 +2103,6 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
@@ -3169,7 +3168,7 @@
 
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
 - [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
-- [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill) - A Claude Code skill for crafted, enterprise-grade UI design
+- [Dammyjay93/claude-design-engineer](https://github.com/Dammyjay93/claude-design-engineer) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [Klavionik/copykitten](https://github.com/Klavionik/copykitten) - Robust, dependency-free way to use the system clipboard in Python.
 - [amureki/django-devbar](https://github.com/amureki/django-devbar) - Lightweight performance devbar for Django
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
