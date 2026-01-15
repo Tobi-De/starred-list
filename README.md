@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [Dammyjay93/claude-design-engineer](https://github.com/Dammyjay93/claude-design-engineer) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [icitry/SVGWebsite](https://github.com/icitry/SVGWebsite) - 
 - [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
@@ -2072,7 +2073,6 @@
 
 ## Shell 
 
-- [Dammyjay93/claude-design-skill](https://github.com/Dammyjay93/claude-design-skill) - A Claude Code skill for crafted, enterprise-grade UI design
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
