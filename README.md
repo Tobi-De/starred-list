@@ -760,6 +760,7 @@
 
 ## Python 
 
+- [adamchainz/tprof](https://github.com/adamchainz/tprof) - A targeting profiler.
 - [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
 - [phalt/clientele](https://github.com/phalt/clientele) - A different way to build Python API Clients
 - [Klavionik/copykitten](https://github.com/Klavionik/copykitten) - Robust, dependency-free way to use the system clipboard in Python.
@@ -2171,7 +2172,7 @@
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [pinecone-router/router](https://github.com/pinecone-router/router) - The feature-packed router for Alpine.js
-- [openeverest/openeverest](https://github.com/openeverest/openeverest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [nrempel/sleek](https://github.com/nrempel/sleek) - Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity.
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue, Angular and Svelte components also included.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -2243,7 +2244,7 @@
 - [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
