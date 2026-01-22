@@ -758,6 +758,7 @@
 
 ## Python 
 
+- [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - A modern debugging and observability tool that orbits your Django application without touching it.
 - [adamchainz/tprof](https://github.com/adamchainz/tprof) - A targeting profiler.
 - [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
 - [phalt/clientele](https://github.com/phalt/clientele) - A different way to build Python API Clients
@@ -797,7 +798,7 @@
 - [mikeckennedy/aiusage](https://github.com/mikeckennedy/aiusage) - A very simple CLI util to help you avoid going over your limits in tools like Cursor, etc.
 - [zeromq/pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
-- [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - 
+- [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker) - 💙 Support the Project  TimeTracker is open-source and free to self-host.  If it saves you time or money:  ☕ Support development  ⭐ Star the repo
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
 - [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
 - [t-strings/tdom](https://github.com/t-strings/tdom) - A 🤘 rockin' t-string HTML templating system for Python 3.14.
@@ -821,7 +822,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [adamghill/dj-lite](https://github.com/adamghill/dj-lite) - Configure SQLite for production use with Django.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
-- [dumaas/django-ulidfield](https://github.com/dumaas/django-ulidfield) - A drop-in Django model field for storing sortable, time-encoded ULIDs as 26-character strings.
+- [gonzalezchristian/django-ulidfield](https://github.com/gonzalezchristian/django-ulidfield) - A drop-in Django model field for storing sortable, time-encoded ULIDs as 26-character strings.
 - [demestav/django-tabler-icons](https://github.com/demestav/django-tabler-icons) - 
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
@@ -859,7 +860,7 @@
 - [Acrisel/sshpipe](https://github.com/Acrisel/sshpipe) - Create and operate SSH based pipeline
 - [tsaarni/ssh-subprocess](https://github.com/tsaarni/ssh-subprocess) - Python module that provides subprocess-like execution of commands over SSH
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - Build. Observe. Iterate. Ship.
 - [nickjj/plutus](https://github.com/nickjj/plutus) - A CLI tool for income and expense tracking.
 - [davidism/email-simplified](https://github.com/davidism/email-simplified) - Email builder and sending handler interface.
 - [ilantwig/deepsprint](https://github.com/ilantwig/deepsprint) - Conducts a quick and deep research
@@ -1206,7 +1207,7 @@
 - [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
-- [cofin/litestar-saq](https://github.com/cofin/litestar-saq) - SAQ Plugin for Litestar
+- [litestar-org/litestar-saq](https://github.com/litestar-org/litestar-saq) - SAQ Plugin for Litestar
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [ivellios/django-unified-signals](https://github.com/ivellios/django-unified-signals) - Django Signals extension for unifying data passed to receivers
