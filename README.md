@@ -87,6 +87,7 @@
 
 ## C 
 
+- [systemd/python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [ParallelSSH/ssh2-python](https://github.com/ParallelSSH/ssh2-python) - Python bindings for libssh2 C library.
 - [drh/lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
@@ -554,7 +555,7 @@
 
 ## Jinja 
 
-- [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. An instantiated version of this template here
+- [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. Also available as a GitHub template.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows
 - [westerveltco/django-twc-package](https://github.com/westerveltco/django-twc-package) - A Django package template for The Westervelt Company
@@ -1389,7 +1390,7 @@
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - TUI-based toolkit for GitHub data analysis.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Terminal-based toolkit for GitHub data analysis.
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
@@ -1943,6 +1944,7 @@
 
 ## Rust 
 
+- [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
 - [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
@@ -1962,7 +1964,7 @@
 - [darrenburns/o4t](https://github.com/darrenburns/o4t) - terminal based typing game
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
