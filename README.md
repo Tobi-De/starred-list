@@ -877,7 +877,7 @@
 - [sileht/cotyledon](https://github.com/sileht/cotyledon) - Cotyledon provides a framework for defining long-running services.
 - [GNtousakis/llm-commit](https://github.com/GNtousakis/llm-commit) - A plugin for llm that generates commit messages
 - [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [aimedey19/django-trackmate](https://github.com/aimedey19/django-trackmate) - A lightweight and customizable Django package for tracking API requests, login/logout activities, and user-defined actions within your application.
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [Bishwas-py/djapy](https://github.com/Bishwas-py/djapy) - No bullshit, Django Rest API Framework
@@ -1016,7 +1016,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
