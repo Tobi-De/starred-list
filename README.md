@@ -174,6 +174,7 @@
 - [oruelle/md_mermaid](https://github.com/oruelle/md_mermaid) - mermaid extension to add support for mermaid graph inside markdown file
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django  &gt; 3 (4 and 5), and latest python releases
 - [timonweb/django-bulma](https://github.com/timonweb/django-bulma) - Bulma theme for Django
 - [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 
@@ -298,7 +299,7 @@
 - [mblayman/journal](https://github.com/mblayman/journal) - A (former) SaaS Journal
 - [dreamsofcode-io/grpc](https://github.com/dreamsofcode-io/grpc) - 
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -1790,7 +1791,6 @@
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [andytwoods/mrbenn](https://github.com/andytwoods/mrbenn) - 
 - [Kludex/uvicorn-browser](https://github.com/Kludex/uvicorn-browser) - Browser reload with uvicorn! :sparkles:
-- [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django  &gt; 3 (4 and 5), and latest python releases
 - [yezz123/authx](https://github.com/yezz123/authx) - Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
