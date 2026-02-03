@@ -275,6 +275,7 @@
 
 ## agent 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
@@ -384,7 +385,7 @@
 
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
@@ -1199,6 +1200,7 @@
 
 ## django 
 
+- [hapytex/django-antipatterns](https://github.com/hapytex/django-antipatterns) - A set of (anti)patterns found over the years.
 - [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - A modern debugging and observability tool that orbits your Django application without touching it.
 - [knifecake/steady-queue](https://github.com/knifecake/steady-queue) - A DB-backed task backend for Django
 - [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
@@ -1498,7 +1500,7 @@
 
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [modern-python/fastapi-sqlalchemy-template](https://github.com/modern-python/fastapi-sqlalchemy-template) - Dockerized web application with DI on FastAPI, sqlalchemy2, PostgreSQL
@@ -2556,7 +2558,7 @@
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
@@ -2830,7 +2832,7 @@
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
@@ -3673,7 +3675,7 @@
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
-- [dy/sprae](https://github.com/dy/sprae) - Reactive sprinkles for HTML/JSX
+- [dy/sprae](https://github.com/dy/sprae) - DOM tree microhydration
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
