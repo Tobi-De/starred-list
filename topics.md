@@ -816,6 +816,7 @@
 
 ## code-quality 
 
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - High-precision Python SAST & Dead Code Remover. Finds unused functions, secrets, and security flaws with hybrid static analysis + local LLM agents. Privacy-first & low noise.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
@@ -1254,7 +1255,7 @@
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Use lucide icons in your Django and Jinja templates
 - [Tobi-De/python-odt-template](https://github.com/Tobi-De/python-odt-template) - Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
-- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django
+- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A backport of Django's built in Tasks framework
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [adamchainz/django-harlequin](https://github.com/adamchainz/django-harlequin) - Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.
@@ -4163,7 +4164,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [adamghill/troml](https://github.com/adamghill/troml) - Suggests classifiers for Python packages.
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
-- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Skylos is the watchdog for your repository. It maps your code's structure to hunt down dead logic, trace tainted data, and kill security rot
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - High-precision Python SAST & Dead Code Remover. Finds unused functions, secrets, and security flaws with hybrid static analysis + local LLM agents. Privacy-first & low noise.
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint) - A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -5012,7 +5013,7 @@
 - [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf) - Django modern CSRF protection using Fetch Metadata request headers instead of tokens.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Skylos is the watchdog for your repository. It maps your code's structure to hunt down dead logic, trace tainted data, and kill security rot
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - High-precision Python SAST & Dead Code Remover. Finds unused functions, secrets, and security flaws with hybrid static analysis + local LLM agents. Privacy-first & low noise.
 - [kdpisda/django-rls](https://github.com/kdpisda/django-rls) - Row Level Security for Django
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
