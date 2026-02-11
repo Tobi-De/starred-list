@@ -3186,6 +3186,7 @@
 
 ## others 
 
+- [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
 - [laytan/odin-postgresql](https://github.com/laytan/odin-postgresql) - Complete & documented Odin bindings for libpq (PostgreSQL)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language](https://github.com/joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language) - How to configure and simple manual regarding Helix in the context of Odin.
