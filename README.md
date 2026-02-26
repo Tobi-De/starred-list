@@ -1524,7 +1524,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
-- [xelixdev/django-pgviews-redux](https://github.com/xelixdev/django-pgviews-redux) - Fork of django-postgres that focuses on maintaining and improving support for Postgres SQL Views.
+- [xelixdev/django-pgviews-redux](https://github.com/xelixdev/django-pgviews-redux) - Fork of django-pgviews that focuses on maintaining and improving support for Postgres SQL Views in Django.
 - [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
 - [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
