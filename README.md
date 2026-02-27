@@ -786,6 +786,7 @@
 
 ## Python 
 
+- [yeongbin05/django-xbench](https://github.com/yeongbin05/django-xbench) - Lightweight Django middleware for APM-style request profiling (DB vs App time, query count)
 - [Kludex/cassetter](https://github.com/Kludex/cassetter) - 
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
 - [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity
