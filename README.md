@@ -1309,7 +1309,7 @@
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [danjac/dissonance](https://github.com/danjac/dissonance) - Simple chat app using PostgreSQL NOTIFY/LISTEN events with HTMX
 - [valberg/django-sse](https://github.com/valberg/django-sse) - A display of how to do Server-Sent Events in Django using StreamingHttpResponse and PostgreSQLs LISTEN/NOTIFY
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [samwillis/python-inline-source](https://github.com/samwillis/python-inline-source) - Python Inline Source Syntax Highlighting Using Type Annotations
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
