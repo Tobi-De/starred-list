@@ -329,7 +329,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -793,7 +793,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [shieldproject/shield](https://github.com/shieldproject/shield) - A standalone system that can perform backup and restore functions for a wide variety of pluggable data systems
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [abilian/nua](https://github.com/abilian/nua) - Open source PaaS and application marketplace
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
@@ -995,7 +995,7 @@
 - [ideos/gloe](https://github.com/ideos/gloe) - A general-purpose library designed to guide developers in expressing their code as a flow.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -2778,7 +2778,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -4430,7 +4430,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [Tobi-De/hyperview-starter](https://github.com/Tobi-De/hyperview-starter) - Project starter for hyperview, an hypermedia based mobile app framework.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) - Mirrored from https://codeberg.org/kramo/cartridges
@@ -5184,7 +5184,7 @@
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - Cdev Python SDK
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
