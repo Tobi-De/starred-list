@@ -2113,6 +2113,7 @@
 
 ## Shell 
 
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns Claude Code into a disciplined Linux & macOS sysadmin. Manages remote servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the Heinzelmä
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
