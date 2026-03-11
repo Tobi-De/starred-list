@@ -2650,6 +2650,7 @@
 
 ## linux 
 
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns Claude Code into a disciplined Linux & macOS sysadmin. Manages remote servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the Heinzelmä
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
@@ -2812,6 +2813,7 @@
 
 ## macos 
 
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns Claude Code into a disciplined Linux & macOS sysadmin. Manages remote servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the Heinzelmä
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
