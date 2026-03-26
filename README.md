@@ -695,7 +695,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
@@ -793,6 +792,8 @@
 
 ## Python 
 
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+- [pjhoberman/autoresearch](https://github.com/pjhoberman/autoresearch) - 
 - [kujov/django-tw](https://github.com/kujov/django-tw) - Zero-config Tailwind CSS v4 for Django.
 - [VojtechPetru/django-live-translations](https://github.com/VojtechPetru/django-live-translations) - 
 - [sofianedjerbi/spar](https://github.com/sofianedjerbi/spar) - 5 AI agents beat the shit out of your ideas until a real gem survives
@@ -957,7 +958,7 @@
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [irgeek/StrEnum](https://github.com/irgeek/StrEnum) - A Python Enum that inherits from str.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Powerful Python Library that enables you to create ISO 20022-Compliant Payment Files from CSV, SQLite, or Python data structures.🐍
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
@@ -2220,7 +2221,7 @@
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
-- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
+- [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare
