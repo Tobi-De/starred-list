@@ -5803,7 +5803,6 @@
 
 ## website 
 
-- [Local-Cafe/localcafe-lite](https://github.com/Local-Cafe/localcafe-lite) - A static site generator for local restaurants and cafes with no runtime js
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
