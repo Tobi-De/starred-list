@@ -249,7 +249,7 @@
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
 - [canonical/microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [aristidebm/db-cli](https://github.com/aristidebm/db-cli) - 
@@ -610,6 +610,7 @@
 - [castrojo/bluefin-cosmic](https://github.com/castrojo/bluefin-cosmic) - Bluefin + COSMIC
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [jefftriplett/django-startproject](https://github.com/jefftriplett/django-startproject) - :checkered_flag: Django Start Project template with batteries
 
 ## Kotlin 
@@ -654,6 +655,7 @@
 
 ## Nix 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 
 ## Nunjucks 
@@ -693,7 +695,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
@@ -2043,7 +2044,6 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [lucas-labs/kurv](https://github.com/lucas-labs/kurv) - 𝐤𝐮𝐫𝐯 › process manager to deamonize/run background processes
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [joshuadavidthomas/django-template-ast](https://github.com/joshuadavidthomas/django-template-ast) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
@@ -2147,7 +2147,6 @@
 - [blue-build/template](https://github.com/blue-build/template) - Template for making your own OS image using BlueBuild
 - [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
