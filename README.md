@@ -444,6 +444,7 @@
 
 ## Haskell 
 
+- [pgenie-io/pgenie](https://github.com/pgenie-io/pgenie) - Type-safe PostgreSQL client code generator
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## JSON 
