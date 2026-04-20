@@ -743,6 +743,7 @@
 
 ## cli 
 
+- [pgenie-io/pgenie](https://github.com/pgenie-io/pgenie) - Type-safe PostgreSQL client code generator
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
@@ -874,6 +875,7 @@
 
 ## compiler 
 
+- [pgenie-io/pgenie](https://github.com/pgenie-io/pgenie) - Type-safe PostgreSQL client code generator
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -5283,6 +5285,7 @@
 
 ## sql 
 
+- [pgenie-io/pgenie](https://github.com/pgenie-io/pgenie) - Type-safe PostgreSQL client code generator
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
