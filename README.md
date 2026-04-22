@@ -90,6 +90,7 @@
 ## C 
 
 - [PDFium/PDFium](https://github.com/PDFium/PDFium) - 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [floooh/sokol-odin](https://github.com/floooh/sokol-odin) - Odin bindings for the sokol headers (https://github.com/floooh/sokol)
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [systemd/python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
@@ -339,7 +340,6 @@
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -534,6 +534,7 @@
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [danimelchor/gpt3-email](https://github.com/danimelchor/gpt3-email) - Using GPT-3 to help you write emails.
 - [Thomashighbaugh/resume](https://github.com/Thomashighbaugh/resume) - An HTML resume styled with Tailwind.css based on Universal Resume
+- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [donotebase/quasar-tiptap](https://github.com/donotebase/quasar-tiptap) - A modern WYSIWYG rich-text editor built on top of tiptap and Quasar for Vue.js.
 - [edelvalle/djhtmx](https://github.com/edelvalle/djhtmx) - Interactive UI components for Django using htmx.org
@@ -1263,7 +1264,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
@@ -2396,7 +2397,6 @@
 ## Zig 
 
 - [Interrupt/delve-framework](https://github.com/Interrupt/delve-framework) - Delve is a framework for writing Games in Zig and Lua. For those who value being cross platform and keeping things simple.
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
 - [jetzig-framework/zmpl](https://github.com/jetzig-framework/zmpl) - Zmpl is a templating language written in Zig
