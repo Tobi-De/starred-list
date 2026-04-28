@@ -359,7 +359,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pennersr/shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service, supporting APNS, FCM, Web Push, Telegram and Email. Written in Go (Golang). Mirror of https://codeberg.org/pennersr/shove
@@ -485,7 +485,7 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes React, Vue, Angular and Svelte components, plus TypeScript definitions.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
@@ -1059,7 +1059,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
