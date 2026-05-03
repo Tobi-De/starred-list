@@ -1932,6 +1932,7 @@
 
 ## gamedev 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️
 - [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) - An Odin + Raylib game template with Hot Reloading pre-setup
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -3827,7 +3828,7 @@
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [deta/starters](https://github.com/deta/starters) - Example Space apps to help you get started with Space.
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [Kludex/python-monorepo](https://github.com/Kludex/python-monorepo) - The Python Monorepo template! :tada:
 - [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from ChatGPT
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
@@ -5180,7 +5181,7 @@
 
 ## security 
 
-- [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered) - Runtime network egress control for Python. One function call to restrict which hosts your code can connect to.
+- [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered) - tethered — Runtime network egress control for Python. One function call to restrict which hosts your code can connect to.
 - [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf) - Django modern CSRF protection using Fetch Metadata request headers instead of tokens.
@@ -5901,6 +5902,7 @@
 
 ## zig 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
