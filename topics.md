@@ -3366,6 +3366,7 @@
 
 ## others 
 
+- [Tanaybaviskar/ghost-observer](https://github.com/Tanaybaviskar/ghost-observer) - Watch any Python app run. See what static tools can't.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic) - An interactive graph of your Django model structure
