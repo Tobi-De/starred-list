@@ -1962,7 +1962,7 @@
 
 ## gamedev 
 
-- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
 - [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️
 - [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) - An Odin + Raylib game template with Hot Reloading pre-setup
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -3368,7 +3368,7 @@
 ## others 
 
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [Tanaybaviskar/ghost-observer](https://github.com/Tanaybaviskar/ghost-observer) - Watch any Python app run. See what static tools can't.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
@@ -5938,7 +5938,7 @@
 
 ## zig 
 
-- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
