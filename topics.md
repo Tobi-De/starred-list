@@ -1596,6 +1596,7 @@
 
 ## docker 
 
+- [alexandru/social-publish](https://github.com/alexandru/social-publish) - Self-hosted service that helps me share to multiple social media platforms at the same time.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
@@ -2661,6 +2662,7 @@
 
 ## kotlin 
 
+- [alexandru/social-publish](https://github.com/alexandru/social-publish) - Self-hosted service that helps me share to multiple social media platforms at the same time.
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
