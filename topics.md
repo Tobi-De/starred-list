@@ -2573,7 +2573,6 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -3377,6 +3376,7 @@
 
 ## others 
 
+- [benoitc/livery](https://github.com/benoitc/livery) - High-performance HTTP/1.1, HTTP/2, HTTP/3 server for Erlang/OTP 27+
 - [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select) - 
 - [pmbanugo/tina](https://github.com/pmbanugo/tina) - A shared-nothing, thread-per-core concurrency framework. Designed for massive concurrency because There Is No Alternative (TINA)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
