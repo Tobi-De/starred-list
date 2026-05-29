@@ -224,7 +224,7 @@
 - [pow-auth/pow](https://github.com/pow-auth/pow) - Robust, modular, and extendable user authentication system
 - [pow-auth/assent](https://github.com/pow-auth/assent) - Multi-provider framework in Elixir
 - [ueberauth/guardian](https://github.com/ueberauth/guardian) - Elixir Authentication
-- [agoodway/walex](https://github.com/agoodway/walex) - Postgres change events (CDC) in Elixir
+- [agoodway/walex](https://github.com/agoodway/walex) - Postgres change events (CDC) in Elixir [WAL]
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
