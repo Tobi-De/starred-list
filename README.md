@@ -783,6 +783,7 @@
 
 ## PLpgSQL 
 
+- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick.
 - [hettie-d/postgres_air](https://github.com/hettie-d/postgres_air) - 
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
@@ -1920,7 +1921,7 @@
 - [gadventures/django-fsm-admin](https://github.com/gadventures/django-fsm-admin) - Mixin and template tags to integrate django-fsm transitions into the django admin.
 - [viewflow/cookbook](https://github.com/viewflow/cookbook) - Sample projects for viewflow and django-material
 - [ninemoreminutes/django-crum](https://github.com/ninemoreminutes/django-crum) - Django CRUM (Current Request User Middleware) captures the current request and user in thread local storage.
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
