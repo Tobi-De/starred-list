@@ -1572,7 +1572,7 @@
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [jazzband/django-fsm-log](https://github.com/jazzband/django-fsm-log) - Automatic logging for Django FSM
 - [ninemoreminutes/django-crum](https://github.com/ninemoreminutes/django-crum) - Django CRUM (Current Request User Middleware) captures the current request and user in thread local storage.
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
 - [Bearle/django-private-chat](https://github.com/Bearle/django-private-chat) - (Deprecated - Please check out https://github.com/Bearle/django_private_chat2) Django one-to-one Websocket-based Asyncio-handled chat, developed by Bearle team
@@ -4200,6 +4200,7 @@
 
 ## postgresql 
 
+- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
 - [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python.
@@ -4865,7 +4866,7 @@
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [jazzband/django-fsm-log](https://github.com/jazzband/django-fsm-log) - Automatic logging for Django FSM
-- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
+- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
