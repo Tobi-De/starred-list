@@ -765,7 +765,6 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
 ## PHP 
 
@@ -1971,6 +1970,7 @@
 - [gtalarico/django-vue-template](https://github.com/gtalarico/django-vue-template) - Django Rest + Vue JS Template
 - [Jean-Zombie/cookiecutter-django-wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) - Cookiecutter Django + Wagtail
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [dcramer/django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
