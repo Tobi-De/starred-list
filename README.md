@@ -385,7 +385,6 @@
 - [hapytex/django-antipatterns](https://github.com/hapytex/django-antipatterns) - A set of (anti)patterns found over the years.
 - [rohunvora/just-fucking-cancel](https://github.com/rohunvora/just-fucking-cancel) - claude code cancels your subscriptions for you
 - [adamghill/django-homepage](https://github.com/adamghill/django-homepage) - Redesigned djangoproject.com
-- [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
@@ -882,7 +881,7 @@
 - [joshuadavidthomas/mcp-django](https://github.com/joshuadavidthomas/mcp-django) - MCP server for Django integration with LLM assistants
 - [dotenvx/python-dotenvx](https://github.com/dotenvx/python-dotenvx) - [dotenvx.com] a better dotenv–from the creator of `dotenv`
 - [loopwerk/django-generic-notifications](https://github.com/loopwerk/django-generic-notifications) - A flexible, multi-channel notification system for Django applications with built-in support for email digests, user preferences, and extensible delivery channels.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [adamghill/dj-lite](https://github.com/adamghill/dj-lite) - Configure SQLite for production use with Django.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -971,7 +970,7 @@
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [irgeek/StrEnum](https://github.com/irgeek/StrEnum) - A Python Enum that inherits from str.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
-- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Powerful Python Library that enables you to create ISO 20022-Compliant Payment Files from CSV, SQLite, or Python data structures.🐍
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -2124,6 +2123,7 @@
 
 ## SCSS 
 
+- [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [Stanko/dual-range-input](https://github.com/Stanko/dual-range-input) - Native dual range input in 60 lines of JavaScript.
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
@@ -2139,7 +2139,8 @@
 
 ## Shell 
 
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
