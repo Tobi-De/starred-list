@@ -295,7 +295,7 @@
 
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
@@ -397,7 +397,7 @@
 
 - [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
 - [duriantaco/skylos](https://github.com/duriantaco/skylos) - Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/r
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -546,7 +546,7 @@
 
 ## automation 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
@@ -764,7 +764,7 @@
 ## claude-code 
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
@@ -772,7 +772,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
@@ -1213,7 +1213,7 @@
 - [yeongbin05/django-xbench](https://github.com/yeongbin05/django-xbench) - Lightweight Django middleware for APM-style request profiling (DB vs App time, query count)
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1548,6 +1548,7 @@
 - [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
 - [jordaneremieff/djantic](https://github.com/jordaneremieff/djantic) - Pydantic model support for Django
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [ellmetha/django-machina](https://github.com/ellmetha/django-machina) - A Django forum engine for building powerful community driven websites.
@@ -2639,6 +2640,7 @@
 
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
@@ -2741,7 +2743,7 @@
 ## linux 
 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
@@ -2905,7 +2907,7 @@
 ## macos 
 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2974,7 +2976,7 @@
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -3381,6 +3383,7 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer) - A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [benoitc/livery](https://github.com/benoitc/livery) - High-performance HTTP/1.1, HTTP/2, HTTP/3 server for Erlang/OTP 27+
@@ -4336,7 +4339,7 @@
 ## prompt-engineering 
 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -4415,6 +4418,7 @@
 - [osprey-oss/migrate-to-uv](https://github.com/osprey-oss/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -5113,6 +5117,7 @@
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
 - [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api) - dj-notification-api is a Django package developed by Lazarus for efficiently handling notifications through various APIs
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -5413,7 +5418,7 @@
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Pain001, A Powerful Python Library that enables you to create ISO 20022-Compliant Payment Files from CSV, SQLite, or Python data structures.🐍
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [corridor/sqlalchemy-history](https://github.com/corridor/sqlalchemy-history) - Library to keep track of changes in SQLAlchemy.
 - [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream) - Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
@@ -5929,7 +5934,7 @@
 ## windows 
 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
@@ -5965,6 +5970,7 @@
 ## xml 
 
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate ISO 20022-compliant payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet — XSD-validated, with a CLI, REST API, and streaming support. 🐍
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 
