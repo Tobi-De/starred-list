@@ -819,7 +819,7 @@
 - [RealOrangeOne/django-tasks-db](https://github.com/RealOrangeOne/django-tasks-db) - An ORM-based backend for Django Tasks
 - [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
 - [mrocklin/claudechic](https://github.com/mrocklin/claudechic) - A stylish terminal UI for Claude Code
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - A modern debugging and observability tool that orbits your Django application without touching it.
 - [adamchainz/tprof](https://github.com/adamchainz/tprof) - A targeting profiler.
 - [Tobi-De/channels-lite](https://github.com/Tobi-De/channels-lite) - 
