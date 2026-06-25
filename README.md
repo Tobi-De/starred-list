@@ -386,7 +386,7 @@
 - [rohunvora/just-fucking-cancel](https://github.com/rohunvora/just-fucking-cancel) - claude code cancels your subscriptions for you
 - [adamghill/django-homepage](https://github.com/adamghill/django-homepage) - Redesigned djangoproject.com
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
-- [kreuzberg-dev/html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
+- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [SarthakJariwala/shadcn-django](https://github.com/SarthakJariwala/shadcn-django) - shadcn/ui for Django ✨
 - [horilla/horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software.
@@ -615,7 +615,7 @@
 
 - [alexandru/social-publish](https://github.com/alexandru/social-publish) - Self-hosted service that helps me share to multiple social media platforms at the same time.
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [sayaka-sh/spmp](https://github.com/sayaka-sh/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
