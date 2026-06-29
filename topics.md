@@ -2633,7 +2633,7 @@
 
 ## jetpack-compose 
 
-- [sayaka-sh/spmp](https://github.com/sayaka-sh/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
+- [sayaka-sh/spmp](https://github.com/sayaka-sh/spmp) - SpMp has been succeeded by Kanon, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 
 ## jquery 
 
