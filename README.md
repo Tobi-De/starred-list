@@ -1128,7 +1128,7 @@
 - [joshuadavidthomas/django-simple-nav](https://github.com/joshuadavidthomas/django-simple-nav) - A simple, flexible, and extensible navigation menu for Django
 - [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [lincolnloop/django-libsql](https://github.com/lincolnloop/django-libsql) - libsql database backend for Django
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [DanCardin/dataclass-settings](https://github.com/DanCardin/dataclass-settings) - Declarative Settings Library
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
