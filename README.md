@@ -433,7 +433,6 @@
 - [yakimka/django-better-json-widget](https://github.com/yakimka/django-better-json-widget) - Better JsonField Widget for Django Admin
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
-- [WebTigers/Tiger](https://github.com/WebTigers/Tiger) - 
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - This project is no longer active or supported.
 - [zaxwebs/tailwind-alpine](https://github.com/zaxwebs/tailwind-alpine) - Building random stuff with Tailwind.css and Alpine.js
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
@@ -794,6 +793,7 @@
 
 ## Python 
 
+- [pyvolt-hq/pyvolt-cli](https://github.com/pyvolt-hq/pyvolt-cli) - The command-line companion to pyvolt: managed Python deployments on infrastructure you actually own.
 - [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus) - POST a job → any script can pick it up and execute it. A dead-simple distributed job bus for bots and scripts.
