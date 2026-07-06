@@ -3419,6 +3419,7 @@
 
 ## others 
 
+- [pyvolt-hq/pyvolt-cli](https://github.com/pyvolt-hq/pyvolt-cli) - The command-line companion to pyvolt: managed Python deployments on infrastructure you actually own.
 - [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer) - A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network
@@ -4124,7 +4125,6 @@
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [django-otp/django-otp](https://github.com/django-otp/django-otp) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
 - [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
-- [WebTigers/Tiger](https://github.com/WebTigers/Tiger) - 
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - This project is no longer active or supported.
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
