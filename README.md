@@ -2091,7 +2091,7 @@
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [3liz/pg-event-server](https://github.com/3liz/pg-event-server) - Dispatch Postgres NOTIFY as SSE notifications
