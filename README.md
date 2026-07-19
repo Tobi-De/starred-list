@@ -47,6 +47,7 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Python](#python)
+- [QML](#qml)
 - [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
@@ -171,6 +172,7 @@
 - [adamghill/refreshcss](https://github.com/adamghill/refreshcss) - Make your CSS so fresh, so clean.
 - [Tobi-De/litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli) - Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [codingforentrepreneurs/micro-ecommerce](https://github.com/codingforentrepreneurs/micro-ecommerce) - Learn how to build a Micro eCommerce Web App with Python, Serverless Postgres, and Stripe Checkout. Live demo at url below.
 - [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx, with great supports for many sphinx extensions.
@@ -413,7 +415,6 @@
 - [PyHAT-stack/web-async-patterns](https://github.com/PyHAT-stack/web-async-patterns) - This repo shows patterns you can use to elevate Python web apps via streaming HTML and htmx
 - [adamghill/unsuckjs.com](https://github.com/adamghill/unsuckjs.com) - Progressively enhance HTML with lightweight JavaScript libraries.
 - [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions) - A registry of htmx extensions, both official and third-party.
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [Tobi-De/leerming](https://github.com/Tobi-De/leerming) - An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [xtrinch/fcm-django-web-demo](https://github.com/xtrinch/fcm-django-web-demo) - Quick demo to demonstrate the use of firebase web push notifications with the use of `javascript` on frontend, `django` on backend and push notifications via `fcm-django` pypi package for django.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
@@ -456,7 +457,7 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
@@ -1984,6 +1985,10 @@
 - [ui/django-post_office](https://github.com/ui/django-post_office) - A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 
+## QML 
+
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+
 ## ReScript 
 
 - [brettcannon/rescript-test](https://github.com/brettcannon/rescript-test) - A lightweight test framework for ReScript
@@ -2006,6 +2011,7 @@
 
 ## Rust 
 
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [KevinDoremy/SearchDeadCode](https://github.com/KevinDoremy/SearchDeadCode) - A fast CLI tool to detect and remove dead/unused code in Android projects (Kotlin & Java)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
@@ -2153,7 +2159,6 @@
 - [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin) - a simple package manager to install pre-compiled binaries from GitHub releases.
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge) - go the distance
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
