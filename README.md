@@ -1699,7 +1699,7 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Kludex/fastapi-responses](https://github.com/Kludex/fastapi-responses) - Find HTTPExceptions and turn them into documented responses! :tada:
 - [Tobi-De/fastapi-users-tortoise](https://github.com/Tobi-De/fastapi-users-tortoise) - FastAPI Users database adapater for Tortoise orm.
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
+- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
 - [fastapi-users/fastapi-users-db-cookiecutter](https://github.com/fastapi-users/fastapi-users-db-cookiecutter) - Cookiecutter to bootstrap a database adapter for FastAPI Users
 - [long2ice/fastapi-limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for fastapi
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
