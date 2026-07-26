@@ -467,6 +467,7 @@
 
 ## JavaScript 
 
+- [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org) - 
 - [wrabit/django-cotton-ui](https://github.com/wrabit/django-cotton-ui) - Django UI components, woven from Cotton.
 - [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
@@ -800,7 +801,7 @@
 - [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom) - Real Goroutines for Python 3.13t+ free-threaded.
 - [postgresql-tools/migra](https://github.com/postgresql-tools/migra) - The actively maintained fork of migra — PostgreSQL schema diff and migration script generator.
 - [pyvolt-hq/pyvolt-cli](https://github.com/pyvolt-hq/pyvolt-cli) - The command-line companion to pyvolt: managed Python deployments on infrastructure you actually own.
-- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
+- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus) - POST a job → any script can pick it up and execute it. A dead-simple distributed job bus for bots and scripts.
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -2023,7 +2024,7 @@
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [JustRadical/jellyfin-rpc](https://github.com/JustRadical/jellyfin-rpc) - Displays the content you're currently watching on Discord!
+- [justradical/jellyfin-rpc](https://github.com/justradical/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
@@ -2327,7 +2328,7 @@
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
