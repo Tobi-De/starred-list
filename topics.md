@@ -232,6 +232,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
+- [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
@@ -401,7 +402,7 @@
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -421,6 +422,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 
 ## ajax 
@@ -665,6 +667,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
@@ -1008,6 +1011,7 @@
 ## csharp 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 
 ## css 
 
@@ -1412,7 +1416,7 @@
 - [boxed/urd](https://github.com/boxed/urd) - A scheduler for Django projects
 - [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django) - The Best Django Resource, Awesome Django for mature packages.
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM for Startups — Django REST + SvelteKit · Self-hosted · Multi-tenant · Free forever
+- [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) - Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever
 - [arneb/django-campaign](https://github.com/arneb/django-campaign) - Newsletter management app for Django
 - [falcopackages/starter-template](https://github.com/falcopackages/starter-template) - The default blueprint use by falco for start-projects, includes tailwindcss, hatch, etc.
 - [stphivos/django-mock-queries](https://github.com/stphivos/django-mock-queries) - A library for mocking django queryset functions in memory for testing
@@ -1728,6 +1732,7 @@
 ## dotnet 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## education 
@@ -2872,6 +2877,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 
 ## localization 
@@ -2889,7 +2895,7 @@
 ## low-code 
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
@@ -3030,7 +3036,7 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## microservices 
@@ -3194,7 +3200,7 @@
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## node 
@@ -3357,7 +3363,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [fmerian/awesome-developer-first-channels](https://github.com/fmerian/awesome-developer-first-channels) - hand-picked places to promote your developer-first product
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM for Startups — Django REST + SvelteKit · Self-hosted · Multi-tenant · Free forever
+- [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) - Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [temporalio/sdk-python](https://github.com/temporalio/sdk-python) - Temporal Python SDK
@@ -3412,7 +3418,6 @@
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using ChatGPT
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
 
 ## opengl 
 
@@ -5171,6 +5176,7 @@
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
 - [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -5360,6 +5366,7 @@
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -5459,6 +5466,10 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
+## sql-server 
+
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
+
 ## sqlite 
 
 - [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus) - POST a job → any script can pick it up and execute it. A dead-simple distributed job bus for bots and scripts.
@@ -5527,7 +5538,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM for Startups — Django REST + SvelteKit · Self-hosted · Multi-tenant · Free forever
+- [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) - Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
