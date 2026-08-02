@@ -2424,6 +2424,7 @@
 
 ## Vue 
 
+- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [antfu/test-nuxt-hub-my-prs](https://github.com/antfu/test-nuxt-hub-my-prs) - 
