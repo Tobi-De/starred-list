@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [L9Lenny/caddy-analyzer](https://github.com/L9Lenny/caddy-analyzer) - Fast, zero-dependency access log analyzer, security threat inspector, and TUI dashboard for Caddy v2
 - [bketelsen/bespoke](https://github.com/bketelsen/bespoke) - A personal app platform: one-off software for exactly one user — built, maintained, and operated by LLM agents. Steal the idea before you steal the code.
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
@@ -521,7 +522,7 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [fcusr/pin-app-folders-to-dash](https://github.com/fcusr/pin-app-folders-to-dash) - GNOME Shell Extension - Pin App Folders to Dash
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [dy/sprae](https://github.com/dy/sprae) - DOM tree microhydration
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
