@@ -508,7 +508,7 @@
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 - [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api) - dj-notification-api is a Django package developed by Lazarus for efficiently handling notifications through various APIs
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
-- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - not maintained anymore; use typed-openapi instead. Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
@@ -829,7 +829,7 @@
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
-- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - not maintained anymore; use typed-openapi instead. Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
@@ -2414,7 +2414,6 @@
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -2492,6 +2491,7 @@
 
 ## http 
 
+- [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
 - [laytan/odin-http](https://github.com/laytan/odin-http) - A HTTP/1.1 client/server implementation for Odin.
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
@@ -3475,7 +3475,6 @@
 - [floooh/sokol-odin](https://github.com/floooh/sokol-odin) - Odin bindings for the sokol headers (https://github.com/floooh/sokol)
 - [bearcove/ship](https://github.com/bearcove/ship) - Pair programming for agents
 - [benoitc/hornbeam](https://github.com/benoitc/hornbeam) - WSGI/ASGI HTTP server powered by the BEAM. Mix the best of Python (AI, web apps) with Erlang (distribution, concurrency, resilience).
-- [Kludex/cassetter](https://github.com/Kludex/cassetter) - 
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
 - [karl-zylinski/odin-sokol-hot-reload-template](https://github.com/karl-zylinski/odin-sokol-hot-reload-template) - 
 - [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity
@@ -4426,6 +4425,7 @@
 - [pallets-eco/croniter](https://github.com/pallets-eco/croniter) - Parses cron schedules to iterate over datetime objects.
 - [metaist/cosmofy](https://github.com/metaist/cosmofy) - Cosmopolitan Python Bundler
 - [kujov/django-tw](https://github.com/kujov/django-tw) - Zero-config Tailwind CSS v4 for Django.
+- [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [adamchainz/tprof](https://github.com/adamchainz/tprof) - A targeting profiler.
 - [phalt/clientele](https://github.com/phalt/clientele) - Clientele is a comprehensive framework for building and maintaining API Integrations
@@ -5223,6 +5223,7 @@
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [rust-mobile/ndk](https://github.com/rust-mobile/ndk) - Rust bindings to the Android NDK
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [justradical/jellyfin-rpc](https://github.com/justradical/jellyfin-rpc) - Displays the content you're currently watching on Discord!
@@ -5690,6 +5691,7 @@
 
 ## testing 
 
+- [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
 - [smattymatty/Django-Mercury-Performance-Testing](https://github.com/smattymatty/Django-Mercury-Performance-Testing) - Quickly & Ergonomically transform your Django Tests to track performance statistics like response time, queries, memory usage, and more! Optional Educational Guidance for Beginners, teaching good Perf
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
@@ -5759,7 +5761,7 @@
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - not maintained anymore; use typed-openapi instead. Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
