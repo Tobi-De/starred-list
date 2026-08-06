@@ -822,7 +822,7 @@
 - [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered) - tethered — Runtime network egress control for Python. One function call to restrict which hosts your code can connect to.
 - [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage) - argparse + https://usage.jdx.dev/
 - [yeongbin05/django-xbench](https://github.com/yeongbin05/django-xbench) - Lightweight Django middleware for APM-style request profiling (DB vs App time, query count)
-- [Kludex/cassetter](https://github.com/Kludex/cassetter) - 
+- [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
 - [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel) - Wrap Go binaries in Python wheels
 - [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity
 - [webmaven/lodum](https://github.com/webmaven/lodum) - Python Serializer/Deserializer (AKA LOad/DUMp) library.
@@ -2253,7 +2253,7 @@
 - [eeue56/gobaith](https://github.com/eeue56/gobaith) - A mental health tracker for developers, by a developer
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - not maintained anymore; use typed-openapi instead. Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
