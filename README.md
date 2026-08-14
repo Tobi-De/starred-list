@@ -139,7 +139,7 @@
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [polterguy/magic](https://github.com/polterguy/magic) - Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on your own hardware, with zero lock-in
+- [polterguy/magic](https://github.com/polterguy/magic) - An Open Source Alternative to Lovable and Supabase in one system!
 
 ## C++ 
 
@@ -614,6 +614,7 @@
 
 - [castrojo/bluefin-cosmic](https://github.com/castrojo/bluefin-cosmic) - Bluefin + COSMIC
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
+- [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin) - Use the Django CLI using "django" without typing "django-admin".
 - [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included
 - [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
@@ -713,7 +714,6 @@
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
-- [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin) - Use the Django CLI using "django" without typing "django-admin".
 - [irfanhakim-as/homelab-wiki](https://github.com/irfanhakim-as/homelab-wiki) - Wiki about everything Homelab
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files.
