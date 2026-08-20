@@ -79,6 +79,7 @@
 - [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) - Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.
 - [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) - Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS.
 - [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -324,7 +325,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [fly-apps/postgres-ha](https://github.com/fly-apps/postgres-ha) - Postgres + Stolon for HA clusters as Fly apps.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
@@ -416,7 +417,6 @@
 - [thedevdojo/create-alpine-app](https://github.com/thedevdojo/create-alpine-app) - A simple starter template for your Alpine and Tailwind projects
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bufferhead-code/htmx-ai](https://github.com/bufferhead-code/htmx-ai) - Add AI support to HTMX
 - [django-crispy-forms/crispy-tailwind](https://github.com/django-crispy-forms/crispy-tailwind) - A Tailwind template pack for django-crispy-forms
@@ -583,7 +583,7 @@
 
 ## Jinja 
 
-- [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A powerful, minimal Python project template and agent skill for modern Python projects with uv
+- [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A powerful, minimal agent skill and template for modern Python projects with uv
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows
 - [westerveltco/django-twc-package](https://github.com/westerveltco/django-twc-package) - A Django package template for The Westervelt Company
@@ -2206,7 +2206,6 @@
 
 ## Svelte 
 
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -2260,6 +2259,7 @@
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [eeue56/gobaith](https://github.com/eeue56/gobaith) - A mental health tracker for developers, by a developer
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - not maintained anymore; use typed-openapi instead. Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
