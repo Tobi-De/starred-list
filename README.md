@@ -141,7 +141,7 @@
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [polterguy/magic](https://github.com/polterguy/magic) - An Open Source Alternative to Lovable and Supabase in one system!
+- [polterguy/magic](https://github.com/polterguy/magic) - Instant SECURE Full Stack Apps and AI Agents
 
 ## C++ 
 
@@ -797,7 +797,6 @@
 - [hettie-d/postgres_air](https://github.com/hettie-d/postgres_air) - 
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 
 ## Perl 
 
@@ -987,7 +986,7 @@
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [irgeek/StrEnum](https://github.com/irgeek/StrEnum) - A Python Enum that inherits from str.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate and validate ISO 20022 payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet. XSD and SEPA scheme validation, pain.002 and camt.053 parsers and builders, plus a CLI, R
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
@@ -2122,6 +2121,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from ChatGPT
