@@ -2828,7 +2828,7 @@
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
+- [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -3557,7 +3557,7 @@
 - [caioariede/django-location-field](https://github.com/caioariede/django-location-field) - Location field and widget for Django. It supports Google Maps, OpenStreetMap and Mapbox
 - [sbdchd/django-types](https://github.com/sbdchd/django-types) - :doughnut: Type stubs for Django
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers) - An easy way to use different serializers for different actions and request methods in Django REST Framework
 - [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry) - Vibecoded Sentry Clone with Claude Code
 - [Textualize/textual-ganglion](https://github.com/Textualize/textual-ganglion) - Server for textual.web
@@ -4554,7 +4554,7 @@
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
+- [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wsvincent/django-auth-tutorial](https://github.com/wsvincent/django-auth-tutorial) - Source code for Django authentication tutorial.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -6048,7 +6048,7 @@
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
+- [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
