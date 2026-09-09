@@ -1150,7 +1150,7 @@
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
 - [browniebroke/django-remake-migrations](https://github.com/browniebroke/django-remake-migrations) - A Django admin command to recreate all migrations in a project.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
@@ -1345,6 +1345,7 @@
 
 ## django 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [viewflow/seedkit](https://github.com/viewflow/seedkit) - Build any Django app — from a SaaS to a dashboard to an API — from a single sentence. An agent skill that wires packages, splits dev/prod settings, and adds CI.
 - [wsvincent/django-skills](https://github.com/wsvincent/django-skills) - Unofficial Django skills based on Django docs and community best-practices
 - [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx) - Ryx gives you the ergonomic query API of Django's ORM while running SQL execution through a compiled Rust core — giving you async-native, high-performance database access with a familiar Python interf
@@ -1821,6 +1822,7 @@
 
 ## fastapi 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx) - Ryx gives you the ergonomic query API of Django's ORM while running SQL execution through a compiled Rust core — giving you async-native, high-performance database access with a familiar Python interf
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [phalt/clientele](https://github.com/phalt/clientele) - Clientele is a comprehensive framework for building and maintaining API Integrations
@@ -1911,6 +1913,7 @@
 
 ## flask 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
@@ -1996,6 +1999,7 @@
 
 ## frontend 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [williamtroup/Calendar.js](https://github.com/williamtroup/Calendar.js) - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2442,6 +2446,7 @@
 
 ## html 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
@@ -2474,6 +2479,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+- [dy/sprae](https://github.com/dy/sprae) - Reactive HTML attributes. No build step, signals-based, CSP-safe.
 - [ubernostrum/webcolors](https://github.com/ubernostrum/webcolors) - A library for working with HTML/CSS color formats in Python.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -3125,7 +3131,7 @@
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter) - :rocket: Detect backward incompatible migrations for your django project
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management
@@ -3975,7 +3981,6 @@
 - [agiliq/building-multi-tenant-applications-with-django](https://github.com/agiliq/building-multi-tenant-applications-with-django) - 
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
-- [dy/sprae](https://github.com/dy/sprae) - DOM tree microhydration
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
@@ -4294,7 +4299,7 @@
 - [modern-python/fastapi-sqlalchemy-template](https://github.com/modern-python/fastapi-sqlalchemy-template) - Dockerized FastAPI + SQLAlchemy 2 + PostgreSQL app template with DI
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [bitcrowd/carbonite](https://github.com/bitcrowd/carbonite) - Audit trails for Elixir/PostgreSQL based on triggers
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
@@ -4438,6 +4443,7 @@
 
 ## python 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [wsvincent/django-skills](https://github.com/wsvincent/django-skills) - Unofficial Django skills based on Django docs and community best-practices
 - [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx) - Ryx gives you the ergonomic query API of Django's ORM while running SQL execution through a compiled Rust core — giving you async-native, high-performance database access with a familiar Python interf
 - [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus) - POST a job → any script can pick it up and execute it. A dead-simple distributed job bus for bots and scripts.
@@ -4492,7 +4498,7 @@
 - [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api) - dj-notification-api is a Django package developed by Lazarus for efficiently handling notifications through various APIs
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
@@ -5010,7 +5016,7 @@
 - [ttlns/Selenium-Driverless](https://github.com/ttlns/Selenium-Driverless) - a stealthy browser automation framework
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework for handling large file uploads. Zero-dependency.
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [jasongi/collectfasta](https://github.com/jasongi/collectfasta) - A fasta collectstatic command.
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
@@ -5124,6 +5130,7 @@
 
 ## react 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [desko27/react-call](https://github.com/desko27/react-call) - Call & Await React Components
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
@@ -5519,7 +5526,7 @@
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
+- [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec) - A Query Mapper for Python
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [corridor/sqlalchemy-history](https://github.com/corridor/sqlalchemy-history) - Library to keep track of changes in SQLAlchemy.
@@ -5906,6 +5913,7 @@
 
 ## vue 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [hzzly/xyy-vue](https://github.com/hzzly/xyy-vue) - :art:基于vue+vue-router+vuex+axios+webpack开发的个人Demo《Qu约》
 - [litestar-org/litestar-vite](https://github.com/litestar-org/litestar-vite) - Vite Plugin for Litestar
@@ -6003,6 +6011,7 @@
 
 ## web-development 
 
+- [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [jasongi/collectfasta](https://github.com/jasongi/collectfasta) - A fasta collectstatic command.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
