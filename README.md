@@ -324,7 +324,7 @@
 - [mblayman/journal](https://github.com/mblayman/journal) - A (former) SaaS Journal
 - [dreamsofcode-io/grpc](https://github.com/dreamsofcode-io/grpc) - 
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -822,7 +822,6 @@
 - [Tanaybaviskar/ghost-observer](https://github.com/Tanaybaviskar/ghost-observer) - Watch any Python app run. See what static tools can't.
 - [pallets-eco/croniter](https://github.com/pallets-eco/croniter) - Parses cron schedules to iterate over datetime objects.
 - [metaist/cosmofy](https://github.com/metaist/cosmofy) - Cosmopolitan Python Bundler
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [pjhoberman/autoresearch](https://github.com/pjhoberman/autoresearch) - 
 - [kujov/django-tw](https://github.com/kujov/django-tw) - Zero-config Tailwind CSS v4 for Django.
@@ -1709,7 +1708,7 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [fsspec/gcsfs](https://github.com/fsspec/gcsfs) - Pythonic file-system interface for Google Cloud Storage
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [julianwachholz/django-guest-user](https://github.com/julianwachholz/django-guest-user) - A Django app that allows visitors to interact with your site as a guest user without requiring registration.
 - [codingjoe/django-mail-auth](https://github.com/codingjoe/django-mail-auth) - Django authentication via login URLs, no passwords required
 - [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi) - Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
@@ -2233,6 +2232,7 @@
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic) - An interactive graph of your Django model structure
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
