@@ -1350,7 +1350,7 @@
 - [kujov/django-tw](https://github.com/kujov/django-tw) - Zero-config Tailwind CSS v4 for Django.
 - [VojtechPetru/django-live-translations](https://github.com/VojtechPetru/django-live-translations) - In-browser translation editing for Django superusers
 - [yeongbin05/django-xbench](https://github.com/yeongbin05/django-xbench) - Lightweight Django middleware for APM-style request profiling (DB vs App time, query count)
-- [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
+- [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter and linter, written in Rust.
 - [RealOrangeOne/django-tasks-db](https://github.com/RealOrangeOne/django-tasks-db) - An ORM-based backend for Django Tasks
 - [hapytex/django-antipatterns](https://github.com/hapytex/django-antipatterns) - A set of (anti)patterns found over the years.
 - [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - AI agent-native observability and debugging for Django.
@@ -2445,7 +2445,7 @@
 - [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter, written in Rust.
+- [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter and linter, written in Rust.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
@@ -5645,7 +5645,7 @@
 - [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
 - [Tailus-UI/atom-astro](https://github.com/Tailus-UI/atom-astro) - Modern astro landing page built with astro and tailus themer
 - [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) - Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.
-- [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
+- [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
