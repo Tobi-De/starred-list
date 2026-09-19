@@ -389,6 +389,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 
 ## HCL 
@@ -495,7 +496,6 @@
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
@@ -1064,6 +1064,7 @@
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [unoconv/unoserver](https://github.com/unoconv/unoserver) - 
@@ -1217,7 +1218,7 @@
 - [sunpy/ablog](https://github.com/sunpy/ablog) - ABlog for blogging with Sphinx
 - [ewjoachim/sphinx-github-changelog](https://github.com/ewjoachim/sphinx-github-changelog) - Build a sphinx changelog from GitHub Releases
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 - [juftin/hatch-pip-compile](https://github.com/juftin/hatch-pip-compile) - hatch plugin to use pip-compile (or uv) to manage project dependencies and lockfiles
 - [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [livekit/python-sdks](https://github.com/livekit/python-sdks) - LiveKit real-time and server SDKs for Python
@@ -2208,7 +2209,6 @@
 - [twilio/twilio-sans-mono](https://github.com/twilio/twilio-sans-mono) - Twilio Sans Mono is a beautiful and extensive open source programming font
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## Svelte 
 
@@ -2231,6 +2231,7 @@
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer) - A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network
 - [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic) - An interactive graph of your Django model structure
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
