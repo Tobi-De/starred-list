@@ -204,7 +204,6 @@
 
 ## Cython 
 
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dart 
@@ -408,7 +407,6 @@
 - [horilla/horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR software.
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [wrabit/cotton-icons](https://github.com/wrabit/cotton-icons) - Plug and play Heroicons, Tabler and Lucide icons for Django Cotton.
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [SalarHoushvand/penguin-ui-components-v3](https://github.com/SalarHoushvand/penguin-ui-components-v3) - UI component library for Tailwind CSS & Alpine JS
 - [melissawm/sphinx-tags](https://github.com/melissawm/sphinx-tags) - A tiny Sphinx extension that implements blog-style tags for documentation.
 - [willpinha/daisy-components](https://github.com/willpinha/daisy-components) - 🌸 Amazing DaisyUI components you can copy and paste
@@ -832,7 +830,7 @@
 - [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity
 - [webmaven/lodum](https://github.com/webmaven/lodum) - Python Serializer/Deserializer (AKA LOad/DUMp) library.
 - [RealOrangeOne/django-tasks-db](https://github.com/RealOrangeOne/django-tasks-db) - An ORM-based backend for Django Tasks
-- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
+- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering st
 - [mrocklin/claudechic](https://github.com/mrocklin/claudechic) - A stylish terminal UI for Claude Code
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - AI agent-native observability and debugging for Django.
@@ -1295,7 +1293,7 @@
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
 - [ag2ai/faststream](https://github.com/ag2ai/faststream) - Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and obs
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [pikhovkin/django-schema-viewer](https://github.com/pikhovkin/django-schema-viewer) - Visualizes a DB schema based on Django models
@@ -1569,6 +1567,7 @@
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [xelixdev/django-pgviews-redux](https://github.com/xelixdev/django-pgviews-redux) - Fork of django-pgviews that focuses on maintaining and improving support for Postgres SQL Views in Django.
 - [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
@@ -2035,7 +2034,7 @@
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [bearcove/ship](https://github.com/bearcove/ship) - Pair programming for agents
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter and linter, written in Rust.
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
@@ -2059,6 +2058,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
