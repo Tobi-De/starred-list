@@ -81,7 +81,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## Awk 
 
@@ -396,6 +396,7 @@
 
 ## HTML 
 
+- [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [citry-dev/citry](https://github.com/citry-dev/citry) - Fully typed frontend framework for Python with server events and Alpine.js, inspired by Vue and Livewire.
 - [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org) - 
 - [hapytex/django-antipatterns](https://github.com/hapytex/django-antipatterns) - A set of (anti)patterns found over the years.
@@ -492,6 +493,7 @@
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
@@ -515,7 +517,6 @@
 - [requarks/changelog-action](https://github.com/requarks/changelog-action) - GitHub Action to generate changelog from conventional commits
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
@@ -559,6 +560,7 @@
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [erdem/django-map-widgets](https://github.com/erdem/django-map-widgets) - Highly customizable, intuitive, and user-friendly map widgets for GeoDjango applications.
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [talkpython/htmx-python-course](https://github.com/talkpython/htmx-python-course) - Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
@@ -1057,7 +1059,6 @@
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [unoconv/unoserver](https://github.com/unoconv/unoserver) - 
@@ -2031,7 +2032,7 @@
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [bearcove/ship](https://github.com/bearcove/ship) - Pair programming for agents
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter and linter, written in Rust.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
@@ -2182,7 +2183,7 @@
 - [gtsa/server-setup-linux](https://github.com/gtsa/server-setup-linux) - Automate the setup of a fresh Ubuntu server with this Bash script. Features include system updates, essential tools installation (Docker, Nginx, PostgreSQL), user creation, SSH configuration, firewall
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ublue-os/hwe](https://github.com/ublue-os/hwe) - Fedora variants with support for ASUS devices, Nvidia devices, and Surface laptops
 - [dobicinaitis/tailwind-cli-extra](https://github.com/dobicinaitis/tailwind-cli-extra) - Tailwind CSS standalone CLI bundled with daisyUI
@@ -2225,6 +2226,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -2237,8 +2239,8 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [j178/prek-action](https://github.com/j178/prek-action) - Run prek in your GitHub Actions workflows
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
+- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -2331,6 +2333,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
@@ -2402,7 +2405,6 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
