@@ -195,8 +195,6 @@
 - [parsing](#parsing)
 - [perl](#perl)
 - [php](#php)
-- [pico-8](#pico-8)
-- [pixel-art](#pixel-art)
 - [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
@@ -2039,7 +2037,6 @@
 ## game 
 
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -2047,13 +2044,11 @@
 ## game-development 
 
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
 
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## gamedev 
@@ -2061,7 +2056,6 @@
 - [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
 - [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of Odin libraries, bindings, software and resources
 - [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) - An Odin + Raylib game template with Hot Reloading pre-setup
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -2479,7 +2473,6 @@
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
@@ -3474,7 +3467,6 @@
 ## opengl 
 
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## operating-system 
 
@@ -3526,7 +3518,7 @@
 - [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity
 - [odin-lang/examples](https://github.com/odin-lang/examples) - Examples of idiomatic Odin code
 - [laytan/odin-postgresql](https://github.com/laytan/odin-postgresql) - Complete & documented Odin bindings for libpq (PostgreSQL)
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
 - [joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language](https://github.com/joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language) - How to configure and simple manual regarding Helix in the context of Odin.
 - [mrocklin/claudechic](https://github.com/mrocklin/claudechic) - A stylish terminal UI for Claude Code
 - [systemd/python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
@@ -3613,7 +3605,7 @@
 - [asadm/vibemode](https://github.com/asadm/vibemode) - Pack your repo into an AI-friendly format and apply AI suggested changes back with ease, all from your terminal.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A powerful, minimal agent skill and template for modern Python projects with uv
-- [ikignosis/janito3](https://github.com/ikignosis/janito3) - Large Language Model Thin Client
+- [joaompinto/janito](https://github.com/joaompinto/janito) - Large Language Model Thin Client
 - [patrick91-archive/trak](https://github.com/patrick91-archive/trak) - Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [makinghappen/caddy-ui](https://github.com/makinghappen/caddy-ui) - 
@@ -4292,14 +4284,6 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
-## pico-8 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
-## pixel-art 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
 ## portfolio 
 
 - [Tobi-De/pw](https://github.com/Tobi-De/pw) - My personal website
@@ -4541,7 +4525,6 @@
 - [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001) - Generate and validate ISO 20022 payment files (pain.001 v03-v12, pain.008) from CSV, SQLite, JSON, or Parquet. XSD and SEPA scheme validation, pain.002 and camt.053 parsers and builders, plus a CLI, R
 - [phoughton/pyiso20022](https://github.com/phoughton/pyiso20022) - A Python package (on PYPI) to create or parse ISO20022 messages.
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -5303,7 +5286,6 @@
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
