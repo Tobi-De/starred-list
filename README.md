@@ -913,7 +913,7 @@
 - [schireson/databudgie](https://github.com/schireson/databudgie) - standalone library/cli tool for database backup/restore
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) - MCP server for Docker
-- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel MCP server: let AI (Claude, Cursor, VS Code) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.
 - [aimedey19/django-ai-translate](https://github.com/aimedey19/django-ai-translate) - AI-powered automatic translation for Django `.po` files.
 - [aimedey19/feexpay-python-sdk](https://github.com/aimedey19/feexpay-python-sdk) - A Python SDK for Feexpay payment gateway
 - [koaning/psdoom](https://github.com/koaning/psdoom) - A small TUI to help terminate processes
@@ -2033,7 +2033,7 @@
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [bearcove/ship](https://github.com/bearcove/ship) - Pair programming for agents
 - [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt) - A fast, HTML aware, Django template formatter and linter, written in Rust.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [messense/typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
@@ -2240,7 +2240,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [j178/prek-action](https://github.com/j178/prek-action) - Run prek in your GitHub Actions workflows
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
-- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -2314,7 +2314,7 @@
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab) - A browser-like search tab for your local files in Obsidian.
