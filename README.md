@@ -81,7 +81,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 
 ## Awk 
@@ -471,13 +471,11 @@
 ## JavaScript 
 
 - [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org) - 
-- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [wrabit/django-cotton-ui](https://github.com/wrabit/django-cotton-ui) - Django UI components, woven from Cotton.
 - [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [remysucre/satellite](https://github.com/remysucre/satellite) - Social networking over static sites
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [Digicreon/muJS](https://github.com/Digicreon/muJS) - Lightweight AJAX navigation library — 5KB alternative to Turbo and htmx
 - [icitry/SVGWebsite](https://github.com/icitry/SVGWebsite) - 
 - [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
@@ -494,7 +492,6 @@
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [nioperas06/bj-decoupage-territorial](https://github.com/nioperas06/bj-decoupage-territorial) - API pour récupérer les départements, communes, arrondissements et les quartiers du Bénin
 - [adamghill/dorkjs](https://github.com/adamghill/dorkjs) - The most important JavaScript framework ever created.
@@ -810,6 +807,7 @@
 - [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom) - (Still experimental) Real Goroutines for Python 3.13t+ free-threaded.
 - [postgresql-tools/migra](https://github.com/postgresql-tools/migra) - The actively maintained fork of migra — PostgreSQL schema diff and migration script generator.
 - [pyvolt-hq/pyvolt-cli](https://github.com/pyvolt-hq/pyvolt-cli) - The command-line companion to pyvolt: managed Python deployments on infrastructure you actually own.
+- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus) - POST a job → any script can pick it up and execute it. A dead-simple distributed job bus for bots and scripts.
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
@@ -1060,6 +1058,7 @@
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
 - [fabiocaccamo/django-cache-cleaner](https://github.com/fabiocaccamo/django-cache-cleaner) - :broom::sparkles: clear the entire cache or individual caches using the admin or management command.
 - [unoconv/unoserver](https://github.com/unoconv/unoserver) - 
@@ -2028,6 +2027,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [bearcove/cbx](https://github.com/bearcove/cbx) - Zero-dependency local text-to-speech CLI. Wraps Chatterbox ONNX models in a standalone Rust binary for macOS, Linux, and Windows.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [rust-mobile/ndk](https://github.com/rust-mobile/ndk) - Rust bindings to the Android NDK
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
