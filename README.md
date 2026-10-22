@@ -58,6 +58,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -167,7 +168,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 
@@ -441,6 +442,7 @@
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [yakimka/django-better-json-widget](https://github.com/yakimka/django-better-json-widget) - Better JsonField Widget for Django Admin
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - This project is no longer active or supported.
 - [zaxwebs/tailwind-alpine](https://github.com/zaxwebs/tailwind-alpine) - Building random stuff with Tailwind.css and Alpine.js
@@ -745,7 +747,6 @@
 - [Jdsleppy/django-orm-cheatsheet](https://github.com/Jdsleppy/django-orm-cheatsheet) - A cheatsheet for the Django ORM
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [gi11es/equal-pay-for-equal-work](https://github.com/gi11es/equal-pay-for-equal-work) - This is a list of organizations that pay remote workers equally regardless of their location
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
@@ -798,6 +799,7 @@
 
 ## Python 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report) - Which of your dependencies block a Django upgrade, and in which order to upgrade them.
 - [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber) - Data anonymizer for Django
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
@@ -820,7 +822,7 @@
 - [kujov/django-tw](https://github.com/kujov/django-tw) - Zero-config Tailwind CSS v4 for Django.
 - [VojtechPetru/django-live-translations](https://github.com/VojtechPetru/django-live-translations) - In-browser translation editing for Django superusers
 - [sofianedjerbi/spar](https://github.com/sofianedjerbi/spar) - 5 AI agents beat the shit out of your ideas until a real gem survives
-- [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered) - tethered - Runtime network egress control for Python. One function call to restrict which hosts your code can connect to.
+- [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered) - Runtime network egress control for Python. One function call to restrict which hosts your code can connect to.
 - [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage) - argparse + https://usage.jdx.dev/
 - [yeongbin05/django-xbench](https://github.com/yeongbin05/django-xbench) - Lightweight Django middleware for APM-style request profiling (DB vs App time, query count)
 - [Kludex/cassetter](https://github.com/Kludex/cassetter) - Rust-powered HTTP cassette recorder for Python tests. Safe by default.
@@ -1120,7 +1122,6 @@
 - [feincms/django-prose-editor](https://github.com/feincms/django-prose-editor) - ProseMirror-based HTML editor for Django
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [wemake-services/dump-env](https://github.com/wemake-services/dump-env) - A utility tool to create .env files
-- [GoogleCloudPlatform/database-assessment](https://github.com/GoogleCloudPlatform/database-assessment) - Database Migration Assessment
 - [racinette/querky](https://github.com/racinette/querky) - Turn your raw SQL queries into fully type annotated Python functions with a single decorator.
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [dmwyatt/template_streaming_shadow_dom](https://github.com/dmwyatt/template_streaming_shadow_dom) - Demonstration of template streaming to Declarative Shadow DOM
@@ -1172,7 +1173,7 @@
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [wagtail/wagtail-vector-index](https://github.com/wagtail/wagtail-vector-index) - Store Wagtail pages & Django models as embeddings in vector databases
 - [cedar-team/django-bulk-load](https://github.com/cedar-team/django-bulk-load) - Load large batches of Django models into the database
-- [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) - Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever
+- [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) - BottleCRM: free, open-source (MIT) CRM with sales, support tickets and invoicing in one app. Unlimited users; self-host or use the hosted app.
 - [arneb/django-campaign](https://github.com/arneb/django-campaign) - Newsletter management app for Django
 - [uploadcare/pyuploadcare](https://github.com/uploadcare/pyuploadcare) - Build file handling in minutes. Upload or accept user-generated content, store, transform, optimize, and deliver images, videos, and documents to billions of users.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
@@ -1505,7 +1506,7 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [jazzband/django-avatar](https://github.com/jazzband/django-avatar) - A Django app for handling user avatars.
+- [fiduswriter/django-avatar](https://github.com/fiduswriter/django-avatar) - A Django app for handling user avatars.
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
@@ -1691,7 +1692,7 @@
 - [dominno/django-moderation](https://github.com/dominno/django-moderation) - django-moderation is reusable application for Django framework, that allows to moderate any model objects.
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
 - [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
-- [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
+- [django-commons/django-constance](https://github.com/django-commons/django-constance) - Dynamic Django settings.
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [fief-dev/fief](https://github.com/fief-dev/fief) - Users and authentication management SaaS
@@ -1912,7 +1913,7 @@
 - [rclement/mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites
 - [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
 - [jazzband/django-downloadview](https://github.com/jazzband/django-downloadview) - Serve files with Django.
-- [jazzband/django-formtools](https://github.com/jazzband/django-formtools) - A set of high-level abstractions for Django forms
+- [django-commons/django-formtools](https://github.com/django-commons/django-formtools) - A set of high-level abstractions for Django forms
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
@@ -1945,7 +1946,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [mdklatt/cookiecutter-python-app](https://github.com/mdklatt/cookiecutter-python-app) - Cookiecutter template for a Python application project.
 - [drubio/beginningdjango](https://github.com/drubio/beginningdjango) - Beginning Django
-- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - Django model and form fields for normalized phone numbers using python-phonenumbers
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
 - [llazzaro/django-scheduler](https://github.com/llazzaro/django-scheduler) - A calendaring app for Django.
@@ -2070,6 +2071,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [linux-credentials/oo7](https://github.com/linux-credentials/oo7) - James Bond went on a new mission as a Secret Service provider
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [spiraldb/local_s3](https://github.com/spiraldb/local_s3) - A crate that launches an in-process S3. Useful for tests and dev setups.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -2218,6 +2220,10 @@
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+## TSQL 
+
+- [GoogleCloudPlatform/database-assessment](https://github.com/GoogleCloudPlatform/database-assessment) - Database Migration Assessment
 
 ## TeX 
 
