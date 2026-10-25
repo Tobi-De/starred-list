@@ -4198,7 +4198,7 @@
 - [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - This project is no longer active or supported.
-- [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
+- [django-commons/django-widget-tweaks](https://github.com/django-commons/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - Resolve form field arguments dynamically when a form is instantiated
 - [andytwoods/mrbenn](https://github.com/andytwoods/mrbenn) - 
 - [Kludex/uvicorn-browser](https://github.com/Kludex/uvicorn-browser) - Browser reload with uvicorn! :sparkles:
