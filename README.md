@@ -47,6 +47,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
@@ -91,14 +92,13 @@
 
 ## Batchfile 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [PDFium/PDFium](https://github.com/PDFium/PDFium) - 
 - [floooh/sokol-odin](https://github.com/floooh/sokol-odin) - Odin bindings for the sokol headers (https://github.com/floooh/sokol)
@@ -182,7 +182,6 @@
 - [Tobi-De/litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli) - Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
-- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [codingforentrepreneurs/micro-ecommerce](https://github.com/codingforentrepreneurs/micro-ecommerce) - Learn how to build a Micro eCommerce Web App with Python, Serverless Postgres, and Stripe Checkout. Live demo at url below.
 - [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx, with great supports for many sphinx extensions.
 - [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm) - Code source of my personal website
@@ -478,6 +477,7 @@
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [remysucre/satellite](https://github.com/remysucre/satellite) - Social networking over static sites
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
 - [Digicreon/muJS](https://github.com/Digicreon/muJS) - Lightweight AJAX navigation library — 5KB alternative to Turbo and htmx
 - [icitry/SVGWebsite](https://github.com/icitry/SVGWebsite) - 
 - [Django-LiveView/liveview](https://github.com/Django-LiveView/liveview) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
@@ -510,6 +510,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
+- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
 - [Tobi-De/hyperview-starter](https://github.com/Tobi-De/hyperview-starter) - Project starter for hyperview, an hypermedia based mobile app framework.
 - [dy/spect](https://github.com/dy/spect) - Observable selectors in DOM
@@ -574,7 +575,6 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
 - [arocks/channels-example](https://github.com/arocks/channels-example) - Code accompanying "Django Channels" blog post and screencast
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
@@ -713,6 +713,7 @@
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
 - [irfanhakim-as/homelab-wiki](https://github.com/irfanhakim-as/homelab-wiki) - Wiki about everything Homelab
+- [Tobi-De/fujin](https://github.com/Tobi-De/fujin) - Get your project up and running in minutes on your vps.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files.
 - [wemake-services/awesome-microtasking](https://github.com/wemake-services/awesome-microtasking) - List of awesome resources and companies that practice microtasking
@@ -798,6 +799,10 @@
 
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+## PowerShell 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Python 
 
@@ -898,7 +903,7 @@
 - [joshuadavidthomas/mcp-django](https://github.com/joshuadavidthomas/mcp-django) - MCP server for Django integration with LLM assistants
 - [dotenvx/python-dotenvx](https://github.com/dotenvx/python-dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [loopwerk/django-generic-notifications](https://github.com/loopwerk/django-generic-notifications) - A flexible, multi-channel notification system for Django applications with built-in support for email digests, user preferences, and extensible delivery channels.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [adamghill/dj-lite](https://github.com/adamghill/dj-lite) - Configure SQLite for production use with Django.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -1010,7 +1015,6 @@
 - [mkalioby/leopards](https://github.com/mkalioby/leopards) - Quicky query your Python lists
 - [systemd/pystemd](https://github.com/systemd/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [AlWaleedMusa/django-starter](https://github.com/AlWaleedMusa/django-starter) - A Django boilerplate to get you started fast with development.
-- [Tobi-De/fujin](https://github.com/Tobi-De/fujin) - Get your project up and running in minutes on your vps.
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [shangxiao/stupid-django-tricks](https://github.com/shangxiao/stupid-django-tricks) - 
 - [eGenix/egenix-pyrun](https://github.com/eGenix/egenix-pyrun) - eGenix PyRun - Your friendly, lean, open source Python runtime
@@ -1057,7 +1061,6 @@
 - [pelme/htpy](https://github.com/pelme/htpy) - Generate HTML in Python
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [Mergifyio/sql-compare](https://github.com/Mergifyio/sql-compare) - Compare SQL schemas
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [sqlalchemy/awaitlet](https://github.com/sqlalchemy/awaitlet) - invoke asyncio awaitables from non-async functions
@@ -1153,7 +1156,7 @@
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [joshuadavidthomas/django-q-registry](https://github.com/joshuadavidthomas/django-q-registry) - A Django app to register periodic Django Q tasks
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [westerveltco/django-flyio](https://github.com/westerveltco/django-flyio) - A set of simple utilities for Django apps running on Fly.io
+- [joshuadavidthomas/django-flyio](https://github.com/joshuadavidthomas/django-flyio) - A set of simple utilities for Django apps running on Fly.io
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [gluent/goe](https://github.com/gluent/goe) - GOE: a simple and flexible way to copy data from an Oracle Database to Google BigQuery.
 - [kushaldas/retask](https://github.com/kushaldas/retask) - Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.
@@ -1711,7 +1714,7 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Kludex/fastapi-responses](https://github.com/Kludex/fastapi-responses) - Find HTTPExceptions and turn them into documented responses! :tada:
 - [Tobi-De/fastapi-users-tortoise](https://github.com/Tobi-De/fastapi-users-tortoise) - FastAPI Users database adapater for Tortoise orm.
-- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. Formats markup and template syntax together, and lints
 - [fastapi-users/fastapi-users-db-cookiecutter](https://github.com/fastapi-users/fastapi-users-db-cookiecutter) - Cookiecutter to bootstrap a database adapter for FastAPI Users
 - [long2ice/fastapi-limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for fastapi
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
@@ -1936,7 +1939,7 @@
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [jazzband/djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - A JSON Web Token authentication plugin for the Django REST Framework.
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
-- [jazzband/django-fsm-log](https://github.com/jazzband/django-fsm-log) - Automatic logging for Django FSM
+- [django-commons/django-fsm-log](https://github.com/django-commons/django-fsm-log) - Automatic logging for Django FSM
 - [gadventures/django-fsm-admin](https://github.com/gadventures/django-fsm-admin) - Mixin and template tags to integrate django-fsm transitions into the django admin.
 - [viewflow/cookbook](https://github.com/viewflow/cookbook) - Sample projects for viewflow and django-material
 - [ninemoreminutes/django-crum](https://github.com/ninemoreminutes/django-crum) - Django CRUM (Current Request User Middleware) captures the current request and user in thread local storage.
@@ -2149,6 +2152,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 
 ## SCSS 
 
@@ -2212,6 +2216,7 @@
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
@@ -2241,13 +2246,12 @@
 - [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic) - An interactive graph of your Django model structure
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [j178/prek-action](https://github.com/j178/prek-action) - Run prek in your GitHub Actions workflows
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
