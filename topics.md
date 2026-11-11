@@ -282,6 +282,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -684,7 +685,7 @@
 - [keithweaver/python-aws-s3](https://github.com/keithweaver/python-aws-s3) - Demo of AWS S3 Walkthrough using Python
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Colin-b/httpx_auth](https://github.com/Colin-b/httpx_auth) - Authentication classes to be used with httpx
-- [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
+- [pydantic/aioaws](https://github.com/pydantic/aioaws) - Asyncio compatible SDK for aws services.
 - [grantmcconnaughey/cookiecutter-django-vue-graphql-aws](https://github.com/grantmcconnaughey/cookiecutter-django-vue-graphql-aws) - A highly opinionated Cookiecutter template that fuses together Django, Vue.js, GraphQL, and AWS into one full-stack web application.
 
 ## azure 
@@ -943,6 +944,7 @@
 
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+- [bashu/wagtail-embedvideos](https://github.com/bashu/wagtail-embedvideos) - 🎬 Integration of django-embed-video for Wagtail CMS
 - [coderedcorp/coderedcms](https://github.com/coderedcorp/coderedcms) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 - [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -4759,6 +4761,7 @@
 - [codingforentrepreneurs/micro-ecommerce](https://github.com/codingforentrepreneurs/micro-ecommerce) - Learn how to build a Micro eCommerce Web App with Python, Serverless Postgres, and Stripe Checkout. Live demo at url below.
 - [terminalkitten/django-insights](https://github.com/terminalkitten/django-insights) - Simple insights for Django projects
 - [django-beam/django-beam](https://github.com/django-beam/django-beam) - django-beam provides you with a set of views, templates and integrations for the most common CRUD applications.
+- [bashu/wagtail-embedvideos](https://github.com/bashu/wagtail-embedvideos) - 🎬 Integration of django-embed-video for Wagtail CMS
 - [wagtail-nest/wagtailmenus](https://github.com/wagtail-nest/wagtailmenus) - An app to help you manage and render menus in your Wagtail projects more effectively
 - [palewire/django-bakery](https://github.com/palewire/django-bakery) - A set of helpers for baking your Django site out as flat files
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
@@ -5026,7 +5029,7 @@
 - [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-- [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
+- [pydantic/aioaws](https://github.com/pydantic/aioaws) - Asyncio compatible SDK for aws services.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
@@ -6155,6 +6158,11 @@
 - [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.
 - [The-Domecode/domecode-opensource](https://github.com/The-Domecode/domecode-opensource) - DomeCode is an open-source application that helps you learn and practice code with the appropriate tools and a curated list of resources through the philosophy of practice.
 
+## whatsapp 
+
+- [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
+- [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
+
 ## windows 
 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -6221,6 +6229,7 @@
 ## youtube 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [bashu/wagtail-embedvideos](https://github.com/bashu/wagtail-embedvideos) - 🎬 Integration of django-embed-video for Wagtail CMS
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 ## zig 
