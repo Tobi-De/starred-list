@@ -712,7 +712,6 @@
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [sakhawy/awesome-django-scale](https://github.com/sakhawy/awesome-django-scale) - A curated list of awesome things related to building with Django "at scale".
 - [irfanhakim-as/homelab-wiki](https://github.com/irfanhakim-as/homelab-wiki) - Wiki about everything Homelab
-- [Tobi-De/fujin](https://github.com/Tobi-De/fujin) - Get your project up and running in minutes on your vps.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files.
 - [wemake-services/awesome-microtasking](https://github.com/wemake-services/awesome-microtasking) - List of awesome resources and companies that practice microtasking
@@ -1014,6 +1013,7 @@
 - [mkalioby/leopards](https://github.com/mkalioby/leopards) - Quicky query your Python lists
 - [systemd/pystemd](https://github.com/systemd/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [AlWaleedMusa/django-starter](https://github.com/AlWaleedMusa/django-starter) - A Django boilerplate to get you started fast with development.
+- [Tobi-De/fujin](https://github.com/Tobi-De/fujin) - Get your project up and running in minutes on your vps.
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [shangxiao/stupid-django-tricks](https://github.com/shangxiao/stupid-django-tricks) - 
 - [eGenix/egenix-pyrun](https://github.com/eGenix/egenix-pyrun) - eGenix PyRun - Your friendly, lean, open source Python runtime
@@ -1085,7 +1085,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
@@ -1636,7 +1636,7 @@
 - [iamoracle/django_case_insensitive_field](https://github.com/iamoracle/django_case_insensitive_field) - Django Case Insensitive Field - a straightforward way to make Django Model Field case insensitive.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [AccordBox/python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate) - Django Webpack boilerplate & Flask Webpack boilerplate
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [arthurio/fastapi-filter](https://github.com/arthurio/fastapi-filter) - Filter and order your endpoints
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [bernardopires/django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) - Tenant support for Django using PostgreSQL schemas.
@@ -1692,7 +1692,7 @@
 - [wsvincent/lithium](https://github.com/wsvincent/lithium) - Django starter project with 🔋
 - [dominno/django-moderation](https://github.com/dominno/django-moderation) - django-moderation is reusable application for Django framework, that allows to moderate any model objects.
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
-- [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
+- [django-commons/django-recurrence](https://github.com/django-commons/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-commons/django-constance](https://github.com/django-commons/django-constance) - Dynamic Django settings.
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
@@ -2315,7 +2315,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [opencx-labs/copilot](https://github.com/opencx-labs/copilot) - 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
