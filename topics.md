@@ -539,6 +539,7 @@
 
 ## api 
 
+- [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [phalt/clientele](https://github.com/phalt/clientele) - Clientele is a comprehensive framework for building and maintaining API Integrations
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - The fastest Python web framework, built on Django. Rust (Actix Web) HTTP server + async typed handlers + msgspec, with the full Django ORM, Admin, middleware and auth. 300k+ req/s, no gunicorn/uvicorn
@@ -1023,7 +1024,6 @@
 
 ## config 
 
-- [dotenvx/python-dotenvx](https://github.com/dotenvx/python-dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -1384,6 +1384,7 @@
 
 ## django 
 
+- [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report) - Which of your dependencies block a Django upgrade, and in which order to upgrade them.
 - [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber) - Data anonymizer for Django
@@ -3798,7 +3799,6 @@
 - [tox-dev/pyproject-fmt-rust](https://github.com/tox-dev/pyproject-fmt-rust) - 
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 - [sligodave/dynamic_databases](https://github.com/sligodave/dynamic_databases) - Django App that allows for the addition of databases on the fly and also the ability to query the database's tables through dynamically generated models.
-- [lkotlarenko/gramma](https://github.com/lkotlarenko/gramma) - Gramma is an innovative Python application that transforms your clipboard into a smart text assistant. Gramma identifies specific command prefixes within your copied text. Upon recognition, it seamles
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [aaugustin/django-sequences](https://github.com/aaugustin/django-sequences) - Generate gapless sequences of integer values.
 - [brettcannon/rescript-test](https://github.com/brettcannon/rescript-test) - A lightweight test framework for ReScript
@@ -5293,6 +5293,7 @@
 
 ## rest-api 
 
+- [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - The fastest Python web framework, built on Django. Rust (Actix Web) HTTP server + async typed handlers + msgspec, with the full Django ORM, Admin, middleware and auth. 300k+ req/s, no gunicorn/uvicorn
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
