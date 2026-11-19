@@ -246,6 +246,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -1397,6 +1398,7 @@
 
 ## django 
 
+- [codingjoe/threadmill](https://github.com/codingjoe/threadmill) - Durable high-performance backend for Django's task framework.
 - [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [labbhq/labb](https://github.com/labbhq/labb) - The reactive UI component library for Django
 - [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report) - Which of your dependencies block a Django upgrade, and in which order to upgrade them.
@@ -2159,7 +2161,7 @@
 - [nguyenvanduocit/ai-commit](https://github.com/nguyenvanduocit/ai-commit) - CLI tool that use ChatGPT to generate commit message for your git repo.
 - [markuswt/gpt-commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using ChatGPT
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
@@ -4151,7 +4153,7 @@
 - [raganwald-deprecated/homoiconic](https://github.com/raganwald-deprecated/homoiconic) - An experiment in publishing code and words about code on a small scale.
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
+- [django-commons/django-taggit](https://github.com/django-commons/django-taggit) - Simple tagging for django
 - [guettli/wol](https://github.com/guettli/wol) - Working out Loud
 - [Neoteroi/GuardPost](https://github.com/Neoteroi/GuardPost) - Classes to handle authentication and authorization for async Python application.
 - [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
@@ -4278,7 +4280,7 @@
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
 - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
-- [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
+- [django-commons/django-pipeline](https://github.com/django-commons/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
 - [tiangolo/blog-posts](https://github.com/tiangolo/blog-posts) - Blog posts and related code by Sebastián Ramírez (@tiangolo)
@@ -5102,6 +5104,7 @@
 
 ## python3 
 
+- [jowilf/sqlalchemy-file](https://github.com/jowilf/sqlalchemy-file) - SQLAlchemy-file is a SQLAlchemy extension for attaching files          to SQLAlchemy model and uploading them to various storage such as Local Storage, Amazon S3,          Rackspace CloudFiles, Google
 - [webmaven/lodum](https://github.com/webmaven/lodum) - Python Serializer/Deserializer (AKA LOad/DUMp) library.
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [RonnyPfannschmidt/prance](https://github.com/RonnyPfannschmidt/prance) - Resolving Swagger/OpenAPI 2.0 and 3.0 Parser
@@ -5420,7 +5423,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
@@ -5678,6 +5681,18 @@
 
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 
+## static-site-generator 
+
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
+- [render-engine/render-engine](https://github.com/render-engine/render-engine) - Python Static Site Generator built with flexibility prioritized
+- [palewire/django-bakery](https://github.com/palewire/django-bakery) - A set of helpers for baking your Django site out as flat files
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
+- [dropseed/combine](https://github.com/dropseed/combine) - Building websites like the good old days.
+- [adamghill/coltrane](https://github.com/adamghill/coltrane) - A minimal app framework for content sites.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
 ## statistics 
 
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
@@ -5893,6 +5908,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
