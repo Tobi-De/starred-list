@@ -3732,7 +3732,7 @@
 - [eeue56/gobaith](https://github.com/eeue56/gobaith) - A mental health tracker for developers, by a developer
 - [irgeek/StrEnum](https://github.com/irgeek/StrEnum) - A Python Enum that inherits from str.
 - [Stanko/dual-range-input](https://github.com/Stanko/dual-range-input) - Native dual range input in 60 lines of JavaScript.
-- [hypy13/django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard built with daisyui
+- [django-daisy/django-daisy](https://github.com/django-daisy/django-daisy) - A modern django dashboard built with daisyui
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [anze3db/adventofcode](https://github.com/anze3db/adventofcode) - Helper utilities for solving Advent of Code puzzles
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
