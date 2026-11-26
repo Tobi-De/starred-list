@@ -672,7 +672,7 @@
 ## Nix 
 
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 
 ## Nunjucks 
 
@@ -779,7 +779,7 @@
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [firefly-iii/sankey](https://github.com/firefly-iii/sankey) - Sankey generator
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -950,7 +950,6 @@
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [nickjj/plutus](https://github.com/nickjj/plutus) - A CLI tool for income and expense tracking.
 - [davidism/email-simplified](https://github.com/davidism/email-simplified) - Email builder and sending handler interface.
-- [ilantwig/deepsprint](https://github.com/ilantwig/deepsprint) - Conducts a quick and deep research
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 - [sileht/cotyledon](https://github.com/sileht/cotyledon) - Cotyledon provides a framework for defining long-running services.
 - [GNtousakis/llm-commit](https://github.com/GNtousakis/llm-commit) - A plugin for llm that generates commit messages
@@ -2131,7 +2130,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter, Code Formatter, and Language Server for Postgres migrations & SQL
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from ChatGPT
@@ -2443,7 +2442,7 @@
 ## Vala 
 
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Manage compatibility tools
 - [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
 
 ## Vim Script 
