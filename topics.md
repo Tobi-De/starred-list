@@ -4004,7 +4004,7 @@
 - [gofiber/template](https://github.com/gofiber/template) - 🧬 Template engine middleware for Fiber
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
+- [pass-extension/pass-import](https://github.com/pass-extension/pass-import) - A pass extension for importing data from most existing password managers
 - [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
 - [django-getpaid/django-plans](https://github.com/django-getpaid/django-plans) - Django application for managing account plans and quotas
 - [provinzkraut/unasyncd](https://github.com/provinzkraut/unasyncd) - Transforming asynchronous to synchronous Python code
